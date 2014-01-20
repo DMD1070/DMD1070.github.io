@@ -1,6 +1,7 @@
 # General Jekyll Config
 pygments: true
 url: http://dmd1070.github.io/
+markdown: redcarpet
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 
