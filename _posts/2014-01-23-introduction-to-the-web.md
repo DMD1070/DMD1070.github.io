@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sample post
+lesson_num: 02.
 categories:
 - blog
 ---
