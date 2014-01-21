@@ -8,31 +8,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.theme.name }} - {{ page.title }}</title>
   <meta name="author" content="{{ site.theme.name }}" />
-  <meta name="description" content="The blog of {{ site.theme.name }}" />
+  <meta name="description" content="{ site.theme.name }}" />
   <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}" />
 
-  <link href="//fonts.googleapis.com/css?family=Open+Sans:600,800" rel="stylesheet" type="text/css">
   <link rel="shortcut icon" href="/favicon.png">
   <link rel="alternate" type="application/rss+xml" title="{{ site.theme.name }}" href="{{site.url}}/atom.xml" />
 
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,800,600' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/assets/css/all.css">
-  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.min.css">
 </head>
 <body>
+
+<div id="wrap">
+
+  {% include header.html %}
+
+
   <div class="container">
-    <div class="four columns sidebar">
-      {% include sidebar.html %}
-    </div>
-
-    <div class="eleven columns content">
-      {{ content }}
-
-      <div class="footer">
-        {% include footer.html %}
-      </div>
-    </div>
+    {{ content }}
   </div>
 
-{% include analytics.html %}
+  <div class="footer">
+    {% include footer.html %}
+  </div>
+</div>
+
+<!--{% include analytics.html %}-->
+<script src="https://code.jquery.com/jquery.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
 </body>
 </html>
