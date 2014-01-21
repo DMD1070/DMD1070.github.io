@@ -1,17 +1,16 @@
 ---
 layout: default
-title: Blog Posts
+title: Home
 ---
 
-<div id="home">
-  <!--<h2><i class="icon-bookmark"></i> Course Lessons</h2>-->
-  <ul id="blog-posts" class="posts">
+  <h2 class="section-title">Understanding the Web</h2>
+  <ul class="posts">
     {% for post in site.posts reversed %}
       <li>
-        <span class="lesson_num">{{ post.lesson_num }} </span><a href="{{ post.url }}">{{ post.title }}</a><span> {{ post.date | date_to_string }}</span>
+        <span class="lesson_num">{{ post.lesson_num }}</span>
+        <a href="{{ post.url }}">{{ post.title }}</a>
         {{ post.excerpt }}
-        <!--<span class="class_date">{{ post.class_date }}</span>-->
+        <!--{{ post.date | date_to_string }}-->
       </li>
     {% endfor %}
   </ul>
-</div>

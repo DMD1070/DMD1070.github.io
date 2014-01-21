@@ -1,8 +1,59 @@
+.container {
+  width: auto;
+  max-width: 700px;
+  padding: 0 15px;
+}
+
+
 /*
 Header
 --------------------------- */
 
 .navbar-default {
   background-color: #fff;
-  border-color: none;
+  border: none;
+}
+
+.site_name {
+  font-weight: 800;
+}
+
+.subtitle {
+  font-weight: 200;
+  text-transform: uppercase;
+}
+
+/*
+Home Page
+--------------------------- */
+
+.posts {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Set the fixed height of the footer here */
+#footer {
+  height: 60px;
+  font-size: .875em;
 }
