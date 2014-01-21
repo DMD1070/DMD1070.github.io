@@ -3,13 +3,16 @@ layout: default
 title: Home
 ---
 
-  <h2 class="section-title">Understanding the Web</h2>
+  <h2 class="section-title">Building Blocks of the Web</h2>
   <ul class="posts">
     {% for post in site.posts reversed %}
       <li>
-        <span class="lesson_num">{{ post.lesson_num }}</span>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <h3><a href="{{ post.url }}">
+          <span class="lesson_num">{{ post.lesson_num }}</span>
+          {{ post.title }}
+        </a></h3>
         {{ post.excerpt }}
+        <hr>
         <!--{{ post.date | date_to_string }}-->
       </li>
     {% endfor %}
