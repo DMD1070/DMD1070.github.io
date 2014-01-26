@@ -67,7 +67,13 @@ Watch the remaining episodes of [Everything is a Remix](http://everythingisaremi
 
 **Part 2:** What is your opinion of the idea that "everything is a remix?" After viewing Part 4: System Failure, do you agree with the filmmaker about the effects of intellectual property?
 
-### 3. Activity
+### 3. Codeacademy
+
+1. Sign up for an account at [codeacademy.com](http://www.codecademy.com/).
+2. Select the [Web Fundamentals](http://www.codecademy.com/tracks/web) track.
+3. Complete lesson 1 HTML Basics (**note: there are 13 steps to this lesson**).
+4. To verify you have completed this lesson [take a screenshot](http://www.take-a-screenshot.org/) of  page that clearly shows you have completed the lesson and email it to me.
+
 
 
 
