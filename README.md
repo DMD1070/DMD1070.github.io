@@ -19,7 +19,7 @@ Have really specific ideas for making the course better? Know a better resource?
 
 ## Credits
 
-There are other web design curriculums which this one is indepted to. They include:
+There are other web design curriculums which this one is indebted to. They include:
 
 - [Teach the Web](http://teachtheweb.com/)
 - [It's My Web](http://people.mozilla.org/~cmills/st-chads/)
