@@ -3,17 +3,31 @@ layout: default
 title: Home
 ---
 
-  <h2 class="section-title">Building Blocks of the Web</h2>
-  <ul class="posts">
-    {% for post in site.posts reversed %}
-      <li>
-        <h3><a href="{{ post.url }}">
-          <span class="lesson_num">{{ post.lesson_num }}</span>
-          {{ post.title }}
-        </a></h3>
-        {{ post.excerpt }}
-        <hr>
-        <!--{{ post.date | date_to_string }}-->
-      </li>
-    {% endfor %}
-  </ul>
+<h2 class="section-title">Building Blocks of the Web</h2>
+<ul class="posts">
+  <li>
+    <h3><a href="/lessons/1-hello-world.html">
+      <span class="lesson_num">01.</span> Hello World
+    </a></h3>
+    Welcome to DMD1070, Foundations of Web Design. This course is designed to guide you through the process of planning, designing, and implementing your first website. In this lesson we'll gain our bearings by understanding a bit about the history of the web and how the web works.
+    <hr>
+  </li>
+  <li>
+    <h3><a href="/lessons/2-open-web.html">
+      <span class="lesson_num">02.</span> The Open Web
+    </a></h3>
+    The web was built on the ideals of openness, accessibility, sharing, and collaboration. How can we use these concepts to remix and create our own work?
+    <hr>
+  </li>
+</ul>
+
+<h2 class="section-title">HTML &amp; CSS</h2>
+<ul class="posts">
+  <li>
+    <h3><a href="/lessons/3-html-intro.html">
+      <span class="lesson_num">03.</span> Introduction to HTML
+    </a></h3>
+    <!-- intro goes here -->
+    <hr>
+  </li>
+</ul>
