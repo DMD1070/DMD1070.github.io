@@ -14,20 +14,12 @@ The web was built on the ideals of openness, sharing, and collaboration. How can
 
 <iframe src="//slid.es/ascott1/dmd1070-02/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-## Activity 1: View the Web Through X-Ray Goggles
-
-Using Mozilla's [X-Ray Goggles](https://goggles.webmaker.org/) let's remix a web page.
-
-1. [Together] Click the link above and follow the "See how Goggles work by swapping an image" instructions.
-2. Install the X-Ray Goggles bookmarklet by dragging the "Activate X-Ray Goggles" link to your bookmarks bar.
-3. Now let's remix the web! Choose a popular website and tweak it to achieve interesting, outlandish, or provoking results.
-
-## Activity 2: Open Sourcing My Pizza Recipe
+## Activity 1: Open Sourcing My Pizza Recipe
 
 1. Distribute index cards with a very basic pizza recipe and explain that you are distributing it with an open source license.
 2. Invite the students to fork the recipe and make it their own
 
-## Activity 3: About Me Remix
+## Activity 2: About Me Remix
 
 In open source, "forking" is the idea of using someone else's project as the starter point for your own (just like our pizza recipe). I've created a simple "About Me" page. Click the "Remix" button and make the "About Me" page your own.
 

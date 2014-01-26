@@ -79,6 +79,14 @@ Now, an unsuccessful web request:
 
 When data is sent down the pipe, it is broken up into little tiny bits called packets. Each one of our data people really represents a single packet! If the data were not broken into packets before being sent to the client computers, it would be much harder to send around. It's the same principle as getting a wardrobe in through your front door, up your stairs and into your bedroom. This is a lot easier to do if you carry the wardrobe upstairs in pieces and then assemble it in the bedroom, rather than carrying it upstairs already assembled!
 
+## Activity 4: View the Web Through X-Ray Goggles
+
+Using Mozilla's [X-Ray Goggles](https://goggles.webmaker.org/) let's remix a web page.
+
+1. [Together] Click the link above and follow the "See how Goggles work by swapping an image" instructions.
+2. Install the X-Ray Goggles bookmarklet by dragging the "Activate X-Ray Goggles" link to your bookmarks bar.
+3. Now let's remix the web! Choose a popular website and tweak it to achieve interesting, outlandish, or provoking results.
+
 <a id="assignments"></a>
 
 ## Readings & Assignments
