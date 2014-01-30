@@ -122,4 +122,6 @@ A more complete HTML page:
 
 ## Activity: Menu Markup
 
-[Long Wharf Pizza Menu](/lesson_files/long_wharf_pizza.txt)
+Here is the plain text of a pizza menu: [Long Wharf Pizza Menu](/lesson_files/long_wharf_pizza.txt)
+
+To practice our HTML chops, mark it up as a valid HTML file.
