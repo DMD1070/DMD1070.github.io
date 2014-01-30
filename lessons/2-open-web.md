@@ -26,6 +26,8 @@ This activity is roughly based on the game of [Mao](http://en.wikipedia.org/wiki
 - Each player is allowed to make up a rule on their own turn.
 - Each group is responsible for recording their rules for discussion after the activity.
 
+After one round of cards, mix the groups up and ask the students to play again. This time each student must try to follow the rules from their original game, even though they may vary from the other players. (Sound confusing? It is!)
+
 **Tip:** ask one student to record the rules for their group
 
 ## Activity 2: Open Sourcing My Pizza Recipe
