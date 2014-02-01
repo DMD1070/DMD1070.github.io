@@ -91,37 +91,33 @@ Adapted from Mozilla Developer Networks' [Introduction to HTML](https://develope
 
 For a full list of HTML tags, check out the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
-## Sample Pages
+## Starter HTML Template
 
 A very basic HTML page:
 
 ```html
+<!DOCTYPE html>
 <html>
+  <head>
+    <meta charset="utf-8">
+    <title>PAGE TITLE</title> <!-- DON'T FORGET THE TITLE -->
+  </head>
   <body>
-    <p>A very basic HTML page</p>
+  <!-- PLACE ALL OF YOUR PAGE CONTENT BELOW HERE -->
+
+  <h1>This is my heading</h1>
+
+  <p>This is a paragraph</p> 
+
+  <!-- AND ABOVE HERE -->
   </body>
 </html>
 ```
 
-A more complete HTML page:
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>A more complete page</title>
-</head>
-<body>
-  <h1>Main heading in my document</h1>
-  <p>This is my <em>not-so-basic</em> page.</p>
-</body>
-</html>
-```
-
-**[Our starter HTML template is available on Github](https://github.com/DMD1070/html-template).**
+**[Our starter HTML template is available to download on Github](https://github.com/DMD1070/html-template).**
 
 ## Activity: Menu Markup
 
 Here is the plain text of a pizza menu: [Long Wharf Pizza Menu](/lesson_files/long_wharf_pizza.txt)
 
-To practice our HTML chops, mark it up as a valid HTML file.
+To practice our HTML chops, mark it up as a [valid](http://validator.w3.org/) HTML file.
