@@ -40,7 +40,7 @@ p {
 }
 ```
 
-Together we will mark up the Husky Cupcakes page we created earlier.
+Together we will style the Husky Cupcakes page we created earlier.
 
 ## Common CSS Properties
 
