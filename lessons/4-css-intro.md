@@ -4,7 +4,7 @@ title: Introduction to CSS
 lesson_num: 04
 ---
 
-Cascading Style Sheets (CSS) allow us to add style such as colors, fonts, and layout to our pages. This lesson will be a review of the basic HTML covered in the last class and an introduction to CSS.
+<p class="lead">Cascading Style Sheets (CSS) allow us to add style such as colors, fonts, and layout to our pages. This lesson will be a review of the basic HTML covered in the last class and an introduction to CSS.</p>
 
 ## HTML Review (together)
 

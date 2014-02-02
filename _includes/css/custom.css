@@ -1,7 +1,41 @@
+*, *:before, *:after {
+  -webkit-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+  box-sizing: border-box;
+}
+
+body {
+  background: #fff;
+  color: #444;
+  font-family: 'Lato', sans-serif;
+  line-height: 1.5;
+}
+
 .container {
-  width: auto;
-  max-width: 700px;
+  margin: 0 auto;
+  max-width: 38em;
   padding: 0 15px;
+  font-size: 1.25em; /*set container base font to 20px */
+}
+
+a:link,
+a:visited {
+  color: rgb(224, 92, 78);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a:hover,
+a:active,
+a:focus {
+  opacity: .9;
+  border-bottom: 2px solid rgb(224, 92, 78);
+}
+
+a {
+  -webkit-transition: .1s;
+  -moz-transition: .1s;
+  transition: .1s;
 }
 
 
@@ -9,18 +43,59 @@
 Header
 --------------------------- */
 
-.navbar-default {
-  background-color: #fff;
-  border: none;
+.site-header {
+  background: #343740;
+  padding: 15px;
 }
 
-.site_name {
-  font-weight: 800;
+.site-header a:link,
+.site-header a:visited {
+  color: #eceeed;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.site-header a:link .fa,
+.site-header a:visited .fa {
+  color: rgb(224, 92, 78);
+  font-size: 1.2em;
+}
+
+.site-header a:hover,
+.site-header a:active,
+.site-header a:focus {
+  border-bottom: 2px solid rgb(224, 92, 78);
+}
+
+.site-title a:hover,
+.site-title a:active,
+.site-title a:focus {
+  color: #eceeed;
+  border-bottom: none;
 }
 
 .subtitle {
-  font-weight: 200;
+  font-weight: 100;
   text-transform: uppercase;
+}
+
+.site-title {
+  margin: 0;
+  width: 50%;
+  float: left;
+  font-size: 1.5em;
+  line-height: 56px; /* height of header */
+}
+
+nav {
+  width: 50%;
+  float: right;
+  text-align: right;
+}
+
+.nav-list li {
+  display: inline;
+  margin-left: 1.5em;
 }
 
 /*
@@ -33,27 +108,48 @@ Home Page
   list-style: none;
 }
 
-/* Sticky footer styles
--------------------------------------------------- */
+/*
+Posts/Lessons
+--------------------------- */
 
-html,
-body {
-  height: 100%;
-  /* The html and body elements cannot have any padding or margin. */
+.lead {
+  font-size: 1.2em;
 }
 
-/* Wrapper for page content to push down footer */
-#wrap {
-  min-height: 100%;
-  height: auto;
-  /* Negative indent footer by its height */
-  margin: 0 auto -60px;
-  /* Pad bottom by footer height */
-  padding: 0 0 60px;
+pre {
+  background: #ECF0F1;
+  padding: 10px;
+  line-height: 23px;
+  margin-bottom: 30px;
+  white-space: pre;
+  overflow-x: auto;
+  word-break: inherit;
+  word-wrap: inherit;
 }
 
-/* Set the fixed height of the footer here */
-#footer {
-  height: 60px;
-  font-size: .875em;
+.highlight td {
+  padding: 8px 15px;
+}
+
+/*
+Footer
+--------------------------- */
+
+.site-footer {
+  margin: 40px 0 20px 0;
+  font-size: .75em;
+}
+
+/*
+Clearfix
+--------------------------- */
+
+.group:before,
+.group:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.group:after {
+    clear: both;
 }

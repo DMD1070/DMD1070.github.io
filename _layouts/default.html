@@ -14,23 +14,20 @@
   <link rel="shortcut icon" href="/favicon.png">
   <link rel="alternate" type="application/rss+xml" title="{{ site.theme.name }}" href="{{site.url}}/atom.xml" />
 
-  <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,800,600' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,400italic' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/assets/css/all.css">
 </head>
 <body>
-
-<div id="wrap">
 
   {% include header.html %}
 
 
   <div class="container">
     {{ content }}
-  </div>
-</div>
 
-  <div id="footer">
-    {% include footer.html %}
+    <footer class="site-footer">
+      {% include footer.html %}
+    </footer>
   </div>
 
 
