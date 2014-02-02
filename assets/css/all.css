@@ -1,5 +1,5 @@
 ---
 ---
-{% include css/bootstrap.css %}
+{% include css/normalize.css %}
 {% include css/custom.css %}
 {% include css/syntax.css %}
