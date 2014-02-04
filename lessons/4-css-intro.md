@@ -52,9 +52,10 @@ Use today's remaining class time to:
 
 1. Style the Long Wharf Pizza menu you created last class.
 2. Add a home page saved as `index.html`
-3. Markup this index page text
-4. Add your stylesheet (the same one used for the menu) and add any necessary styles
-5. Link your two pages together
+3. Markup this [index page text]((/lesson_files/pizza_index.txt))
+4. Add an image to the home page
+5. Add your stylesheet (the same one used for the menu) and add any necessary styles
+6. Link your two pages together
 
 ## Assignments
 

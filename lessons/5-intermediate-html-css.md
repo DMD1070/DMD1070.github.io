@@ -8,6 +8,8 @@ lesson_num: 05
 
 ## Intermediate HTML
 
+Together we'll be marking up and styling the [Husky Cupcakes menu](/lesson_files/husky_cupcakes_menu.txt).
+
 ### `<span>` and `<div>`
 
 The `span` and `div` tags are generic containers for content on our page. `div`'s are used to represent **blocks** of content, while `span`'s are used to represent **inline** content.
@@ -121,5 +123,46 @@ a:active,
 a:focus {
   color: #D94214;
 }
+```
 
-## Activity
+## In-class Activity
+
+Over the next few classes, you will create a small website that showcases a band’s album releases.
+
+### Steps
+
+Choose a music artist of band that has at least 4 releases and at least two band members.
+
+Find the band members names' and a little background information about them. You can use information found on the Web or other sources. **Just make sure to cite and link to your source.**
+
+For each of 4 of their albums, find the title, track listing, and cover art.
+
+Gather, edit, and organize copy. Make sure that you keep a record of your sources. Add the appropriate content to your HTML documents. Keep reading to know what copy you need to gather, edit, and organize.
+
+In your DMD1070 folder, create a new folder named **discography**.
+
+Create 2 html files:
+
+- index.html
+- discography.html
+
+index.html should have:
+
+- Band/artist name
+- Image of the band/artist
+- Background information
+- Unordered list of band members
+- Table with 2-columns
+  - Year album was released
+  - title of the album
+
+**discography.html should have, for *each* album:**
+
+- A div with a unique id
+- Inside the div have:
+  - Title of album
+  - The album cover art
+  - Ordered list of track listing
+  - Link (Back) to about page
+
+This activity is originally from [Teach the Web](http://teachtheweb.com/course_materials/discography_1.php)
