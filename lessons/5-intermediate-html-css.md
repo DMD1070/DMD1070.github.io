@@ -144,6 +144,31 @@ a:focus {
 }
 ```
 
+### Center your page
+
+Though we'll talk about layout in more depth in an upcoming class, a common request has been to center your page content on the screen. Here's how we would do that:
+
+The HTML:
+
+```html
+<!-- HTML <head></head> above this -->
+<body>
+  <div class="wrap">
+    <!-- PAGE CONTENT HERE -->
+  </div> <!-- this closes the .wrap div -->
+</body>
+</html>
+```
+
+The CSS:
+
+```css
+.wrap {
+  width: 700px;
+  margin: 0 auto;
+}
+```
+
 ## In-class Activity
 
 Over the next few classes, you will create a small website that showcases a band’s album releases.
