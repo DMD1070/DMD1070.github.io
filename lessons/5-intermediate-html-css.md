@@ -37,6 +37,25 @@ Tables are used to represent tabular data. Here's an example of a simple table:
 </table>
 ```
 
+Here's a table with header cells:
+
+```html
+<table>
+  <tr>
+    <th>First Name</th>
+    <th>Last Name</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+  </tr>
+  <tr>
+    <td>Jane</td>
+    <td>Doe</td>
+  </tr>
+</table>
+```
+
 ### classes and ID's
 
 We can apply classs and ID's to our HTML. This allows us to give greater meaning to our document and more easily add styles or behaviors to specific elements.
