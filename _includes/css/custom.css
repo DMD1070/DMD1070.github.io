@@ -132,6 +132,51 @@ pre {
 }
 
 /*
+Lesson TOC
+--------------------------- */
+
+@media (min-width: 1250px) {
+
+  .scroll-nav {
+    position: fixed;
+    right: 0;
+    top: 116px;
+    width: 260px;
+    background: #ECF0F1;
+    font-size: 0.75em;
+    text-align: left;
+    padding: 10px;
+  }
+}
+
+@media (max-width: 1250px) {
+  .scroll-nav {
+    display: none;
+  }
+}
+
+.scroll-nav__list {
+  margin: 0;
+  padding: 0;
+}
+
+.scroll-nav__item {
+  list-style: none;
+}
+
+.scroll-nav__link,
+.scroll-nav__link:link,
+.scroll-nav__link:visited {
+  font-weight: 400;
+}
+
+.scroll-nav__link.active,
+.scroll-nav__link.active:link,
+.scroll-nav__link.active:visited  {
+  font-weight: 800;
+}
+
+/*
 Footer
 --------------------------- */
 
