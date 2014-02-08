@@ -29,7 +29,7 @@ We'll add some basic styles to our review HTML document we created earlier in cl
 To do so, create a new file called `style.css` and add the following to the `<head>` of your HTML page:
 
 ```html
-<link rel="stylesheet" href="style1.css">
+<link rel="stylesheet" href="style.css">
 ```
 
 CSS works by using **selectors** to select HTML content and apply styles to them. Look below and take a guess as the the result:
