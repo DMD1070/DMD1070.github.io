@@ -56,6 +56,8 @@ lesson_num: 06
 
 ## In-Class Project
 
+Add a stylesheet to your Discography project. Consider the color, type, and layout based on what we have learned about CSS so far.
+
 ## This Week's Assignment
 
 ### 1. Codeacademy
@@ -64,4 +66,17 @@ Complete lessons 4, 5, and 6 in the [HTML & CSS](http://www.codecademy.com/track
 
 ### 2. Reading
 
+Read [A Journey Through Beautiful Typography In Web Design](http://www.smashingmagazine.com/2013/08/06/beautiful-typography-web-design/)
+
 ### 3. Blog Post
+
+Look for examples of *interesting typography* around you. Find *at least* three examples, take photos, and post them to your blog.
+
+Where can you find interesting typography?
+
+- Magazines
+- Signs
+- Menus (sometimes!)
+- Billboards
+- Graffiti
+- IT'S ALL AROUND YOU
