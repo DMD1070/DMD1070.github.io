@@ -66,7 +66,7 @@ Complete lessons 4, 5, and 6 in the [HTML & CSS](http://www.codecademy.com/track
 
 ### 2. Reading
 
-Read [A Journey Through Beautiful Typography In Web Design](http://www.smashingmagazine.com/2013/08/06/beautiful-typography-web-design/)
+Read [Web Design is 95% Typography](http://ia.net/blog/the-web-is-all-about-typography-period) and [A Journey Through Beautiful Typography In Web Design](http://www.smashingmagazine.com/2013/08/06/beautiful-typography-web-design/)
 
 ### 3. Blog Post
 
