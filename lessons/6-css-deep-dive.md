@@ -28,6 +28,8 @@ lesson_num: 06
 
 ## In Class Demo
 
+[Download these files](/lesson_files/ornette.zip) for today's demo.
+
 ## Normalize.css
 
 [Normalize.css](http://necolas.github.io/normalize.css/) is a file that "normalizes" the base appearance of your site across browsers. To use it:
