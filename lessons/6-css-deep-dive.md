@@ -70,13 +70,4 @@ Read [Web Design is 95% Typography](http://ia.net/blog/the-web-is-all-about-typo
 
 ### 3. Blog Post
 
-Look for examples of *interesting typography* around you. Find *at least* three examples, take photos, and post them to your blog.
-
-Where can you find interesting typography?
-
-- Magazines
-- Signs
-- Menus (sometimes!)
-- Billboards
-- Graffiti
-- IT'S ALL AROUND YOU
+Details coming next class...
