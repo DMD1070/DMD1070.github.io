@@ -30,6 +30,10 @@ lesson_num: 06
 
 [Download these files](/lesson_files/ornette.zip) for today's demo.
 
+### After Styling the Ornette Page Together
+
+[Download this CSS file](/lesson_files/ornette2/ornette2.css) and place it in your Ornette directory. Delete the `<img>` file in the markup and change the reference in your HTML to point to the new CSS file. Notice how the (nearly) identical markup can be styled in a dramatically different way?
+
 ## Normalize.css
 
 [Normalize.css](http://necolas.github.io/normalize.css/) is a file that "normalizes" the base appearance of your site across browsers. To use it:
