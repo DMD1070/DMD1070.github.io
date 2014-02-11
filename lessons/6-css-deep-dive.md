@@ -32,7 +32,7 @@ lesson_num: 06
 
 ### After Styling the Ornette Page Together
 
-[Download this CSS file](/lesson_files/ornette2/ornette2.css) and place it in your Ornette directory. Delete the `<img>` file in the markup and change the reference in your HTML to point to the new CSS file. Notice how the (nearly) identical markup can be styled in a dramatically different way?
+[Download this CSS file](/lesson_files/ornette2/style2.css) and place it in your Ornette directory. Delete the `<img>` file in the markup and change the reference in your HTML to point to the new CSS file. Notice how the (nearly) identical markup can be styled in a dramatically different way?
 
 ## Normalize.css
 
