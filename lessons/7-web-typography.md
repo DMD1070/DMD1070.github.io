@@ -16,6 +16,20 @@ lesson_num: 07
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/eKKDL6lekmA" frameborder="0" allowfullscreen></iframe>
 
+## Exploring Typography Activity
+
+### Part 1
+
+Type is [all around us](http://www.flickr.com/groups/found-typography/). Take the next hour to explore te typography of the campus/surrounding area. Take photos of type that you find interesting and be sure to photograph **all 26 letters of the alphabet.**
+
+### Part 2
+
+Create a 900 x 750 Photoshop document with a white background. Click *View > Show Grid*.
+
+Open each letter photo in Photoshop. Set your crop to 100 x 100 and crop the letters. Once cropped bring the letter into the large Photoshop document.
+
+Use the white space in the bottom right corner to type set your name. When you are finished. Save the image for the web as a jpg file: *File > Save for Web and Devices > Preset: JPEG, Quality: High* and post the image to your class blog.
+
 ## Sizing Type
 
 Up until now we've been sizing our type with with the px unit of measure, but from here on out we'll be using `ems`. There's a [number of reasons](http://css-tricks.com/why-ems/) to use ems over px, but most importantly is te flexibility it gives us as designers.
@@ -83,6 +97,18 @@ p {
 
 Be sure to take a look at [The Best Google Web Fonts](http://hellohappy.org/beautiful-web-type) demo
 
-## In Class Activity 1
+## Web Type Activity 1
 
-## In Class Activity 2
+## Web Type Activity 2
+
+## This Week's Assignments
+
+### CodeAcademy
+
+Complete lessons 7, 8, 9, and 10 of the [HTML & CSS track](http://www.codecademy.com/tracks/web). Send me a screenshot showing completion prior to next week's class.
+
+### Blog Post
+Complete the found alphabet activity and post it to your blog.
+
+### Reading
+
