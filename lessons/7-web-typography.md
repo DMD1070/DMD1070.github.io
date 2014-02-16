@@ -30,6 +30,10 @@ Open each letter photo in Photoshop. Set your crop to 100 x 100 and crop the let
 
 Use the white space in the bottom right corner to type set your name. When you are finished. Save the image for the web as a jpg file: *File > Save for Web and Devices > Preset: JPEG, Quality: High* and post the image to your class blog.
 
+## Activity Type Setting an Article
+
+Together let's type set Tim Berners-Lee's [The World Wide Web: A very short personal history](http://www.w3.org/People/Berners-Lee/ShortHistory.html)
+
 ## Sizing Type
 
 Up until now we've been sizing our type with with the px unit of measure, but from here on out we'll be using `ems`. There's a [number of reasons](http://css-tricks.com/why-ems/) to use ems over px, but most importantly is te flexibility it gives us as designers.
@@ -85,21 +89,65 @@ p {
 
 ## Line Length
 
-## HTML Entities
+Although they can easily be found [all](http://amazon.com) [over](http://wikipedia.org) the web, long line lengths are difficult to read.
+
+The ideal line length tends to fall between 480-580px (~30-36em).
+
+## HTML Character Entities
+
+Character entities are used to print special characters in HTML. Some are essential such as the less-than and greater-than symbols which are used in HTML tags. To display a greater-than symbol on a web page, you must use a character entitites. Character entities also give us greater control over our typography.
+
+[This article from Web Designer wall](http://webdesignerwall.com/tutorials/using-html-symbol-entities) walks us through using character entities.
 
 ## Finding Typefaces
 
 ### Font Stacks
 
+We've already discussed font stacks briefly while learning the basics of CSS. While we don't have the control or amount of choice in type that the following methods will discuss, there are still several benefits to using native typefaces with font stacks. Mainly:
+
+- They are quick to load (the user doesn't need to download them)
+- They render nicely (web fonts can look less than great on certain operating systems)
+
 ### @font-face
 
+@font-face is a way of using font-files so that all users are served the typeface you've chosen for your site design. [Font Squirrel](http://www.fontsquirrel.com/) has a great directory of free fonts and creates downloadable @font-face kits for you.
+
 ### Web Font Services
+
+There are a handful of services that take the guess work out of using @font-face.
+
+[Typekit](https://typekit.com/) uses professional typefaces, but he free plan can only be used on one site.
+
+[Google Web Fonts](https://www.google.com/fonts) uses free and open source fonts (similar to Font Squirrel), but makes adding the the fonts to a page *really* easy. 
 
 Be sure to take a look at [The Best Google Web Fonts](http://hellohappy.org/beautiful-web-type) demo
 
 ## Web Type Activity 1
 
+Choose a quote or song lyric and try creating a typographic interpretation, similar to those found at [The Best Google Web Fonts](http://hellohappy.org/beautiful-web-type) demo. Try to be creative, but **do not use more than 2 fonts.**
+
 ## Web Type Activity 2
+
+We can do a better job than the last style sheets used in our Discography projects by creating a *new* style sheet for this website. This style sheet will be used for both pages.
+
+Create a new style sheet for your Discography website. Link the style sheet in both HTML documents.
+
+Make appropriate typography decisions such as:
+
+- font
+- line length
+- line height
+- visual hierarchy
+- Make everything legible and readable.
+
+Your links need to have 4 states:
+
+- link
+- visited
+- hover
+- active
+
+Use ems for your unit of measurement.
 
 ## This Week's Assignments
 
@@ -111,4 +159,9 @@ Complete lessons 7, 8, 9, and 10 of the [HTML & CSS track](http://www.codecademy
 Complete the found alphabet activity and post it to your blog.
 
 ### Reading
+
+**Focus on the concept not the technical how-to for now**
+
+- [Responsive Web Design](http://alistapart.com/article/responsive-web-design/)
+- [Responsive Web Design: What It Is and How To Use It](http://coding.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/)
 
