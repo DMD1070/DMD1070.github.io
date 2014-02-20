@@ -92,13 +92,12 @@ p {
 
 Although they can easily be found [all](http://amazon.com) [over](http://wikipedia.org) the web, long line lengths are difficult to read.
 
-The ideal line length tends to fall between 480-580px (~30-36em).
 
 ## HTML Character Entities
 
 Character entities are used to print special characters in HTML. Some are essential such as the less-than and greater-than symbols which are used in HTML tags. To display a greater-than symbol on a web page, you must use a character entitites. Character entities also give us greater control over our typography.
 
-[This article from Web Designer wall](http://webdesignerwall.com/tutorials/using-html-symbol-entities) walks us through using character entities.
+[Here is a full list of HTML character entities](http://www.dionysia.org/html/entities/symbols.html)
 
 ## Finding Typefaces
 
