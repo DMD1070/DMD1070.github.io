@@ -4,7 +4,7 @@ title: Web Typography
 lesson_num: 07
 ---
 
-<p class="lead">Some would argue that [Web Design is 95% Typography](http://ia.net/blog/the-web-is-all-about-typography-period/_). Carefully considering the type of our website will greatly improve the design of our site as well as making it easier for our users to read and scan for information.</p>
+<p class="lead">Some would argue that <a href="http://ia.net/blog/the-web-is-all-about-typography-period/">Web Design is 95% Typography</a>. Carefully considering the type of our website will greatly improve the design of our site as well as making it easier for our users to read and scan for information.</p>
 
 ## Typography Overview
 
@@ -20,7 +20,7 @@ lesson_num: 07
 
 ### Part 1
 
-Type is [all around us](http://www.flickr.com/groups/found-typography/). Take the next hour to explore te typography of the campus/surrounding area. Take photos of type that you find interesting and be sure to photograph **all 26 letters of the alphabet.**
+Type is [all around us](http://www.flickr.com/groups/found-typography/). Take the next hour to explore the typography of the campus/surrounding area. Take photos of type that you find interesting and be sure to photograph **all 26 letters of the alphabet.**
 
 ### Part 2
 
@@ -58,6 +58,7 @@ And our CSS would be:
 h2 {
   font-size 1.5em;
 }
+```
 
 If math isn't your thing, the [pxtoem.com](http://pxtoem.com/) takes a lot of the guess work our of conversions.
 
