@@ -186,6 +186,34 @@ Footer
 }
 
 /*
+Alert
+--------------------------- */
+.alert {
+  margin-top: 20px;
+  padding: 10px;
+  background: #f7de78;
+  border: 1px solid #F1C40F;
+  text-align: center;
+}
+
+.alert a .fa {
+  font-weight: normal;
+}
+
+.alert a,
+.alert a:link,
+.alert a:visited {
+  color: #3498DB;
+}
+
+.alert a:hover,
+.alert a:active,
+.alert a:focus {
+  border-bottom: none;
+  color: #E74C3C;
+}
+
+/*
 Clearfix
 --------------------------- */
 
