@@ -116,7 +116,7 @@ We've already discussed font stacks briefly while learning the basics of CSS. Wh
 
 There are a handful of services that take the guess work out of using @font-face.
 
-[Typekit](https://typekit.com/) uses professional typefaces, but he free plan can only be used on one site.
+[Typekit](https://typekit.com/) uses professional typefaces, but the free plan can only be used on one site.
 
 [Google Web Fonts](https://www.google.com/fonts) uses free and open source fonts (similar to Font Squirrel), but makes adding the the fonts to a page *really* easy. 
 
