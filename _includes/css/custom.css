@@ -81,14 +81,14 @@ Header
 
 .site-title {
   margin: 0;
-  width: 50%;
+  max-width: 50%;
   float: left;
   font-size: 1.5em;
   line-height: 56px; /* height of header */
 }
 
-nav {
-  width: 50%;
+.site-nav {
+  min-width: 50%;
   float: right;
   text-align: right;
 }
@@ -226,3 +226,55 @@ Clearfix
 .group:after {
     clear: both;
 }
+
+/*
+Media Queries
+--------------------------- */
+@media (max-width: 1110px) {
+  body {
+    font-size: 0.875em;
+  }
+
+  .site-title {
+    font-size: 1.2em;
+  }
+}
+
+
+@media (max-width: 800px) {
+
+  .subtitle {
+    display: none;
+  }
+
+}
+
+@media (max-width: 500px) {
+
+  .site-title {
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    float: none;
+    line-height: 56px; /* height of header */
+  }
+  .site-nav {
+    float: none;
+    min-width: 100%;
+    width: 100%;
+    text-align: center;
+  }
+  .nav-list {
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav-list li {
+    display: block;
+    text-align: left;
+  }
+  
+}
+
