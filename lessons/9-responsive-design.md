@@ -2,6 +2,7 @@
 layout: post
 title: Responsive Design
 lesson_num: 09
+published: true
 ---
 
 <p class="lead">
@@ -19,8 +20,18 @@ Many (if not most) modern sites employ responsive desig techniques.
 
 ## How To
 
-Together let's walk through [Grid: A simple guide to responsive design](http://www.adamkaplan.me/grid/) by Adam  Kaplan/
+Together let's walk through [Grid: A simple guide to responsive design](http://www.adamkaplan.me/grid/) by Adam  Kaplan.
 
 ## Mobile First
 
-## On Your Own
+Mobile first responsive web design means that we start by designing the basic mobile experience and layer on additional functionality/design for larger devices. Doing so allows us to focus on the most important bits of our site's design and content.
+
+[This article by Brad Frost](http://bradfrostweb.com/blog/web/mobile-first-responsive-web-design/) is a very thorough overview of mobile first & responsive design.
+
+## Together
+
+Let's design and build a mobile first responsive page.
+
+## This is Responsive
+
+[This is Responsive](http://bradfrost.github.io/this-is-responsive/) is an essential resource with patterns, resources, and news about responsive design. 
