@@ -11,7 +11,7 @@ published: true
 
 ## Examples
 
-Many (if not most) modern sites employ responsive desig techniques.
+Many (if not most) modern sites employ responsive design techniques.
 
 - [The Boston Globe](http://www.bostonglobe.com/)
 - [Mashable](http://mashable.com/)
@@ -34,4 +34,4 @@ Let's design and build a mobile first responsive page.
 
 ## This is Responsive
 
-[This is Responsive](http://bradfrost.github.io/this-is-responsive/) is an essential resource with patterns, resources, and news about responsive design. 
+[This is Responsive](http://bradfrost.github.io/this-is-responsive/) is an essential resource with patterns, resources, and news about responsive design.
