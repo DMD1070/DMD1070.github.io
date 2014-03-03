@@ -4,7 +4,7 @@ title: resources
 ---
 
 ## HTML
-
+- [Project Starter Template](https://github.com/DMD1070/project-template)
 - [Basic HTML Template](https://github.com/DMD1070/html-template)
 
 ## CSS
