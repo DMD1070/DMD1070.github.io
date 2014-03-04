@@ -2,6 +2,7 @@
 layout: post
 title: CSS Layout
 lesson_num: 08
+published: true
 ---
 
 <p class="lead">
@@ -38,8 +39,8 @@ Bring a a six-sided package that has text on *all* sides to next week's class (*
 
 ### Readings
 
+- [Responsive Web Design](http://alistapart.com/article/responsive-web-design/)
 - [Mobile First](http://www.lukew.com/ff/entry.asp?933)
-- [The Many Faces of Mobile First](http://bradfrostweb.com/blog/mobile/the-many-faces-of-mobile-first/)
 
 ### Blog
 
