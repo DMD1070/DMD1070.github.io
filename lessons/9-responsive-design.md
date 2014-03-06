@@ -35,3 +35,7 @@ Let's design and build a mobile first responsive page.
 ## This is Responsive
 
 [This is Responsive](http://bradfrost.github.io/this-is-responsive/) is an essential resource with patterns, resources, and news about responsive design.
+
+## On Your Own
+
+On your own build a *responsive* photo gallery page. It should have at least a dozen images and adapt the design based on the user's screen size. Start by creating the mobile experience first.
