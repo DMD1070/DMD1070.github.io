@@ -27,10 +27,6 @@ Together, let's take what we learned and build a 2 column layout.
 
 ![2 column layout](/lesson_files/2-column.png)
 
-## In-Class Assignment - Build a Simple Photo Gallery
-
-On your own, create a "photo gallery" page with at least 12 images. Look at the [inline-block](http://learnlayout.com/inline-block.html) example for inspiration.
-
 ## This Week's Assignments
 
 ### Mystery Assignment
