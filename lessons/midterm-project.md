@@ -17,10 +17,28 @@ Download [the project-template](https://github.com/DMD1070/project-template) and
 
 Take the box and determine hierarchy of its information. Imagine that the box is a website, markup all of the content on your box. Use the appropriate elements to create the hierarchy. The existing package hierarchy does not have to be maintained. Instead, create hierarchy that makes sense to you and to your design.
 
+### Website Requirements
+
+- Create 1 homepage and 2 internal pages.
+- Use the top of the box as a header on each page.
+- Use the bottom of the box as the footer on each page.
+- Use the front of the box as a homepage.
+- Use the back and one side of the box to create a 2-column layout for an internal page.
+- Use the other column to create a second internal page.
+- You must use all the text on the box (yes, even the text in the barcode).
+- Your navigation must remain in the same location on each page of your site.
+- You must markup and style the nutrition facts.
+- Each page must be accessible from every page.
+- There must be a link to the homepage on every other page (This can be an logo in your header).
+- Validate your HTML and CSS on each page before turning in your assignment for a final grade.
+
 ## Resources
 
-- [Basic Navigation Bar](http://cdpn.io/KhHrA)
+- [Basic navigation bar](http://cdpn.io/KhHrA)
 - [This is Responsive](http://bradfrost.github.io/this-is-responsive/)
+- [HTML Validator](http://validator.w3.org/)
+- [CSS Validator](http://jigsaw.w3.org/css-validator/)
+- [Host your site with Google Drive](https://support.google.com/drive/answer/2881970?hl=en)
 
 
 *This project is based on the [Package](http://teachtheweb.com/course_materials/package.php) assignment by Teach the Web.*
