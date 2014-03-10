@@ -1,3 +1,9 @@
+---
+layout: post
+title: Midterm Project
+lesson_num: 00
+---
+
 ## Midterm Project
 
 <p class="lead">You will be creating a website. As your starting point, you will use a six-sided package that has text on all sides</p>
