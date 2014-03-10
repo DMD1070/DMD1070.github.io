@@ -149,8 +149,13 @@ thead {
   vertical-align: bottom;
 }
 
-th,
-td {
+td, 
+th {
+  border-left: 1px solid #cbcbcb;
+  border-width: 0 0 0 1px;
+  font-size: inherit;
+  margin: 0;
+  overflow: visible;
   padding: 0.5em 1em;
 }
 
