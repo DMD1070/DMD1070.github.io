@@ -25,12 +25,24 @@ Take the box and determine hierarchy of its information. Imagine that the box is
 - Use the front of the box as a homepage.
 - Use the back and one side of the box to create a 2-column layout for an internal page.
 - Use the other column to create a second internal page.
-- You must use all the text on the box (yes, even the text in the barcode).
+- You must use all the text on the box.
 - Your navigation must remain in the same location on each page of your site.
 - You must markup and style the nutrition facts.
 - Each page must be accessible from every page.
 - There must be a link to the homepage on every other page (This can be an logo in your header).
 - Validate your HTML and CSS on each page before turning in your assignment for a final grade.
+- 
+### Grading
+
+|                                                                                        | 3 | 2 | 1 | Score |
+|----------------------------------------------------------------------------------------|---|---|---|-------|
+| All pages are valid HTML with no errors                                                |   |   |   |       |
+| CSS file validates without errors                                                      |   |   |   |       |
+| At least one page has a 2 column (or more) layout                                      |   |   |   |       |
+| All pages are responsive                                                               |   |   |   |       |
+| All pages contain a header and footer                                                  |   |   |   |       |
+| Navigation is consistent from page to page and each page has a link to all other pages |   |   |   |       |
+| All content from the box is present on the site                                        |   |   |   |       |
 
 ## Resources
 
