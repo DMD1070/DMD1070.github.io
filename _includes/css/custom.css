@@ -132,6 +132,34 @@ pre {
 }
 
 /*
+tables
+-------------------------- */
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  empty-cells: show;
+  border: 1px solid #cbcbcb;
+}
+
+thead {
+  background: #e0e0e0;
+  color: #000;
+  text-align: left;
+  vertical-align: bottom;
+}
+
+th,
+td {
+  padding: 0.5em 1em;
+}
+
+td:first-child,
+th:first-child {
+  border-left-width: 0;
+}
+
+/*
 Lesson TOC
 --------------------------- */
 
