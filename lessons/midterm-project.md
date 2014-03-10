@@ -37,7 +37,7 @@ Take the box and determine hierarchy of its information. Imagine that the box is
 - Each page must be accessible from every page.
 - There must be a link to the homepage on every other page (This can be an logo in your header).
 - Validate your HTML and CSS on each page before turning in your assignment for a final grade.
-- 
+
 ### Grading
 
 |                                                                                        | 3 | 2 | 1 | Score |
