@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Midterm Project
-lesson_num: 00
+lesson_num: 0
+published: true
 ---
 
 ## Midterm Project
@@ -57,6 +58,21 @@ Take the box and determine hierarchy of its information. Imagine that the box is
 - [HTML Validator](http://validator.w3.org/)
 - [CSS Validator](http://jigsaw.w3.org/css-validator/)
 - [Host your site with Google Drive](https://support.google.com/drive/answer/2881970?hl=en)
+
+## When you are finished
+
+1. Post your site to [Google Drive](https://support.google.com/drive/answer/2881970?hl=en)
+2. Email me the URL
+3. Write your blog post (details below)
+
+### Blog Post
+
+Write a blog post about your box project. Be sure to include the following:
+
+- A link to your site (the Google Drive URL).
+- Describe what you learned by completing this project (this might be technical, process, or both).
+- Describe the biggest challenges you faced when building this project and how you overcame them (or if you didn't, how you might do so next time)/
+
 
 
 *This project is based on the [Package](http://teachtheweb.com/course_materials/package.php) assignment by Teach the Web.*
