@@ -1,30 +1,24 @@
 Husky Cupcakes
 
-Home
-Menu
-Contact
-
-Muffin pastry chocolate cake. Candy sweet roll apple pie tootsie roll ice cream chupa chups dessert pudding. Dragee souffle carrot cake chupa chups biscuit lollipop sesame snaps. Pie pudding cheesecake ice cream. Croissant unerdwear.com pudding. Dragee lemon drops chocolate cake. Liquorice powder danish. Chocolate bar halvah jelly beans. Dragee donut lemon drops apple pie applicake. Applicake bear claw bear claw candy canes. Croissant cookie dessert apple pie apple pie. Brownie pie chupa chups liquorice lemon drops.
-
 Menu
 
 Traditional
 
-Chocolate
-Vanilla
-Red Velvet
+Chocolate 1.99
+Vanilla 1.99
+Red Velvet 2.50
 
 Filled
 
-Boston Creme
-Fudge
-Lemon Meringue
+Boston Creme 2.99
+Fudge 2.99
+Lemon Meringue 3.25
 
 Specialty
 
-Apple Pie
-Cherry Cheesecake
-Cinnamon Bun
+Apple Pie 3.50
+Cherry Cheesecake 3.50
+Cinnamon Bun 3.00
 
 
 © 2014 Husky Cupcakes

@@ -2,15 +2,15 @@ Husky Cupcakes
 
 [CUPCAKE IMAGE HERE]
 
-Muffin soufflé chocolate bar candy candy. Lollipop pie pudding. Powder cheesecake croissant.
+Muffin souffle chocolate bar candy candy. Lollipop pie pudding. Powder cheesecake croissant.
 
-Sweet topping pudding caramels pastry candy dragée chocolate bar pudding. Soufflé dessert unerdwear.com. Muffin powder ice cream danish marshmallow bear claw cookie carrot cake pie. Pastry bear claw applicake jelly-o.
+Sweet topping pudding caramels pastry candy chocolate bar pudding. Souffle dessert unerdwear.com. Muffin powder ice cream danish marshmallow bear claw cookie carrot cake pie. Pastry bear claw applecake jelly-o.
 
 Our Flavors
 
 Tiramisu 
 tootsie roll pie 
-liquorice sweet liquorice
+licorice swee
 jelly-o
 candy canes
 Sugar plum 
@@ -19,3 +19,26 @@ sesame snaps
 candy croissant.
 
 Text generated with cupcakeipsum.com
+
+Menu
+
+Traditional
+
+Chocolate 1.99
+Vanilla 1.99
+Red Velvet 2.50
+
+Filled
+
+Boston Creme 2.99
+Fudge 2.99
+Lemon Meringue 3.25
+
+Specialty
+
+Apple Pie 3.50
+Cherry Cheesecake 3.50
+Cinnamon Bun 3.00
+
+
+© 2014 Husky Cupcakes
