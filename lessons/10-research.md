@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research & Discovery
+title: "Research & Discovery"
 lesson_num: 11
 published: true
 ---
@@ -50,8 +50,6 @@ Write a brief synthesis of your findings for your blog. What components make a s
 ## Creating Personas
 
 What is a persona and how do we create them?
-
-**Read:** [Creating A Customer Persona for Your Startup](http://marketingbeforefunding.com/2013/02/26/complete-guide-to-creating-a-customer-persona-for-your-startup/)
 
 ### Persona Assignment
 
