@@ -3,11 +3,13 @@ layout: default
 title: About
 ---
 
-**DMD1070: Foundations of Web Design** is a course offered at the [University of Connecticut – Stamford](http://stamford.uconn.edu/) and taught by [Adam D. Scott](http://adamdscott.com/).
+## About the open source curriculum
+
+**DMD1070: Foundations of Web Design** is a course offered at the [University of Connecticut – Stamford](http://stamford.uconn.edu/) and taught by [Adam Scott](http://adamscott.website).
 
 ## Contributing
 
-Contributions to the DMD1070 curriculum are welcomed in the form of both issues and pull requests.
+Contributions to the DMD1070 curriculum are welcomed in the form of both GitHub issues and pull requests.
 
 ### Issues
 
@@ -26,6 +28,6 @@ There are other web design curriculums which this one is indebted to. They inclu
 - [W3C Web Standards Curriculum](http://www.w3.org/wiki/Web_Standards_Curriculum)
 - [Web Platform Docs](http://docs.webplatform.org/wiki/beginners)
 
-## License 
+## License
 
 All original course content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

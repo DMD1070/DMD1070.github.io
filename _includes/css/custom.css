@@ -1,6 +1,6 @@
 *, *:before, *:after {
-  -webkit-box-sizing: border-box; 
-  -moz-box-sizing: border-box; 
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 
@@ -93,6 +93,10 @@ Header
   text-align: right;
 }
 
+.nav-list {
+  padding: 0;
+}
+
 .nav-list li {
   display: inline;
   margin-left: 1.5em;
@@ -149,7 +153,7 @@ thead {
   vertical-align: bottom;
 }
 
-td, 
+td,
 th {
   border-left: 1px solid #cbcbcb;
   border-width: 0 0 0 1px;
@@ -274,7 +278,7 @@ Media Queries
 }
 
 
-@media (max-width: 800px) {
+@media (max-width: 900px) {
 
   .subtitle {
     display: none;
@@ -282,7 +286,7 @@ Media Queries
 
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
 
   .site-title {
     margin: 0;
@@ -307,7 +311,7 @@ Media Queries
   .nav-list li {
     display: block;
     text-align: left;
+    margin: .5em 0;
   }
-  
-}
 
+}
