@@ -10,15 +10,15 @@ lesson_num: 02
 
 [Jump to the assignments](#assignments)
 
-<iframe src="//slid.es/ascott1/dmd1070-02/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://slid.es/ascott1/dmd1070-02/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Activity 1: A Game with No Rules
- 
+
 **Supplies needed:** several decks of cards (1 for every 4 students)
 
 During the browser wars, web browser vendors created their own sets of rules for the web. How could this lead to a frustrating experience for users?
 
-This activity is roughly based on the game of [Mao](http://en.wikipedia.org/wiki/Mao_(card_game)) where new players are not instructed the rules at the beginning of the game, each group of players (4-5 students) is handed a deck of cards. 
+This activity is roughly based on the game of [Mao](http://en.wikipedia.org/wiki/Mao_(card_game)) where new players are not instructed the rules at the beginning of the game, each group of players (4-5 students) is handed a deck of cards.
 
 **The rules of the game are as follows:**
 
@@ -47,7 +47,7 @@ Flatten and stretch the dough. Cover with tomatoes and cheese. Bake in the oven 
 
 ## Activity 2: About Me Remix
 
-In open source, "forking" is the idea of using someone else's project as the starter point for your own (just like our pizza recipe). I've created a simple profile page page. 
+In open source, "forking" is the idea of using someone else's project as the starter point for your own (just like our pizza recipe). I've created a simple profile page page.
 
 1. Visit my sample profile page](https://adamscott.makes.org/thimble/leo-the-cat).
 2. Click the "Remix" button at the top of the page.
@@ -73,8 +73,3 @@ Watch the remaining episodes of [Everything is a Remix](http://everythingisaremi
 2. Select the [Web Fundamentals](http://www.codecademy.com/tracks/web) track.
 3. Complete lesson 1 HTML Basics (**note: there are 13 steps to this lesson**).
 4. To verify you have completed this lesson [take a screenshot](http://www.take-a-screenshot.org/) of  page that clearly shows you have completed the lesson and email it to me.
-
-
-
-
-

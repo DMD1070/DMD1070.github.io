@@ -11,7 +11,7 @@ class_date: January 23, 2014
 
 [Jump to the assignments](#assignments)
 
-<iframe src="//slid.es/ascott1/dmd1070-1/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://slid.es/ascott1/dmd1070-1/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## How Does the Web Work?
 
@@ -93,9 +93,9 @@ Using Mozilla's [X-Ray Goggles](https://goggles.webmaker.org/) let's remix a web
 
 Read the Web inventor's brief personal history. Do you think his vision of the web has held true? Come to class on Thursday prepared to discuss this.
 
-### 2. Set Up Your Blog 
+### 2. Set Up Your Blog
 
-Throughout the semester we will be utilizing a WordPress blog. 
+Throughout the semester we will be utilizing a WordPress blog.
 
 
 Go to [Wordpress.com](http://www.wordpress.com) to create and maintain your blog. Wordpress is a free content management tool.
