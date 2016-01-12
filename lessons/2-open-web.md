@@ -18,7 +18,7 @@ lesson_num: 02
 
 During the browser wars, web browser vendors created their own sets of rules for the web. How could this lead to a frustrating experience for users?
 
-This activity is roughly based on the game of [Mao](http://en.wikipedia.org/wiki/Mao_(card_game)) where new players are not instructed the rules at the beginning of the game, each group of players (4-5 students) is handed a deck of cards.
+This activity is roughly based on the game of [Mao](https://en.wikipedia.org/wiki/Mao_(card_game)) where new players are not instructed the rules at the beginning of the game, each group of players (4-5 students) is handed a deck of cards.
 
 **The rules of the game are as follows:**
 

@@ -9,8 +9,6 @@ class_date: January 23, 2014
 
 <!--more-->
 
-[Jump to the assignments](#assignments)
-
 <iframe src="https://slid.es/ascott1/dmd1070-1/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## How Does the Web Work?
@@ -93,20 +91,6 @@ Using Mozilla's [X-Ray Goggles](https://goggles.webmaker.org/) let's remix a web
 
 Read the Web inventor's brief personal history. Do you think his vision of the web has held true? Come to class on Thursday prepared to discuss this.
 
-### 2. Set Up Your Blog
-
-Throughout the semester we will be utilizing a WordPress blog.
-
-
-Go to [Wordpress.com](http://www.wordpress.com) to create and maintain your blog. Wordpress is a free content management tool.
-
-Your blog’s URL should be your first and last names (with a number if needed). For example mine might be: http://adamscott.wordpress.com or http://adamscott2014.wordpress.com
-
-Follow the instructions on wordpress.com in order to create your blog. After you set up your blog, familiarize yourself with the “dashboard.” This is where you manage your blog. Choose from the themes that are provided and follow the instructions to add your own images to the theme. Customize the theme to make it feel more like your own design style (you do this within the dashboard).
-
-Create a category titled “DMD1070.” Throughout the semester you will be required to post entries to your blog. The entries for this class are to be put in the “DMD1070” category.
-
-Inappropriate materials posted to your blog or comments on classmates' blogs will not be tolerated.
 
 ## Lesson Credits
 

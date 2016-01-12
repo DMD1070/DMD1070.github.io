@@ -107,7 +107,7 @@ A very basic HTML page:
 
   <h1>This is my heading</h1>
 
-  <p>This is a paragraph</p> 
+  <p>This is a paragraph</p>
 
   <!-- AND ABOVE HERE -->
   </body>
@@ -120,4 +120,4 @@ A very basic HTML page:
 
 Here is the plain text of a pizza menu: [Long Wharf Pizza Menu](/lesson_files/long_wharf_pizza.txt)
 
-To practice our HTML chops, mark it up as a [valid](http://validator.w3.org/) HTML file.
+To practice our HTML chops, mark it up as a [valid](https://validator.w3.org/) HTML file.
