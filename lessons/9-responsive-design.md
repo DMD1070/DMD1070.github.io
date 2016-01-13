@@ -3,6 +3,7 @@ layout: post
 title: Responsive Design
 lesson_num: 09
 published: true
+excerpt: "Responsive design is the idea of designing for all screens. Considering how our site adapts for a variety of devices, will help us to focus our content and build sites that meet the needs of every user."
 ---
 
 <p class="lead">

@@ -29,6 +29,7 @@ theme:
   name: DMD1070
   email: test@example.com
   tagline: Fundamentals of Web Design
+  description: "DMD1070: Foundations of Web Design is an open source curriculum for the course offered at the University of Connecticut, Stamford."
 
   excerpt_separator: <!--more-->
 

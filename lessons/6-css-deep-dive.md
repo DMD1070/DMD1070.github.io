@@ -19,7 +19,7 @@ lesson_num: 06
 
   <h1>This is my heading</h1>
 
-  <p>This is a paragraph</p> 
+  <p>This is a paragraph</p>
 
   <!-- AND ABOVE HERE -->
   </body>

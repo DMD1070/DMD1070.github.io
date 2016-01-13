@@ -2,6 +2,7 @@
 layout: post
 title: Sketching Design Studio
 lesson_num: 11
+excerpt: "Through sketching, sharing ideas, and refining these ideas we can begin to develop our initial site design. To do so we'll follow the design studio process."
 ---
 
 Through sketching, sharing ideas, and refining these ideas we can begin to develop our initial site design. To do so we'll follow the design studio process.
@@ -36,4 +37,4 @@ Based on the feedback you have received, sketch a single version of your idea. C
 
 ## Step 5: Team idea generation
 
-We'll post our sketches around the room. Using sticky notes, point out **1-2 things you like** and **1-2 things you think need improvement** on each sketch. 
+We'll post our sketches around the room. Using sticky notes, point out **1-2 things you like** and **1-2 things you think need improvement** on each sketch.

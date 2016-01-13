@@ -3,6 +3,7 @@ layout: post
 title: Final Project
 lesson_num: 0
 published: true
+excerpt: "The Web is a powerful tool that you can use to inform people about your work and yourself. For the final course project you will be developing a portfolio site with a minimum of 4 pages."
 ---
 
 The Web is a powerful tool that you can use to inform people about your work and yourself. For the final course project you will be developing a portfolio site with a minimum of 4 pages.

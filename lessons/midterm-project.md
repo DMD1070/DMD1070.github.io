@@ -3,6 +3,7 @@ layout: post
 title: Midterm Project
 lesson_num: 0
 published: true
+excerpt: "You will be creating a website. As your starting point, you will use a six-sided package that has text on all sides"
 ---
 
 ## Midterm Project

@@ -2,6 +2,7 @@
 layout: post
 title: Web Typography
 lesson_num: 07
+excerpt: "Some would argue that Web Design is 95% Typography. Carefully considering the type of our website will greatly improve the design of our site as well as making it easier for our users to read and scan for information."
 ---
 
 <p class="lead">Some would argue that <a href="http://ia.net/blog/the-web-is-all-about-typography-period/">Web Design is 95% Typography</a>. Carefully considering the type of our website will greatly improve the design of our site as well as making it easier for our users to read and scan for information.</p>
@@ -118,7 +119,7 @@ There are a handful of services that take the guess work out of using @font-face
 
 [Typekit](https://typekit.com/) uses professional typefaces, but the free plan can only be used on one site.
 
-[Google Web Fonts](https://www.google.com/fonts) uses free and open source fonts (similar to Font Squirrel), but makes adding the the fonts to a page *really* easy. 
+[Google Web Fonts](https://www.google.com/fonts) uses free and open source fonts (similar to Font Squirrel), but makes adding the the fonts to a page *really* easy.
 
 Be sure to take a look at [The Best Google Web Fonts](http://hellohappy.org/beautiful-web-type) demo
 
@@ -164,4 +165,3 @@ Complete the found alphabet activity and post it to your blog.
 
 - [Responsive Web Design](http://alistapart.com/article/responsive-web-design/)
 - [Responsive Web Design: What It Is and How To Use It](http://coding.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/)
-

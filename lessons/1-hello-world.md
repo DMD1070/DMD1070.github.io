@@ -3,6 +3,7 @@ layout: post
 title: Hello World
 lesson_num: 01
 class_date: January 23, 2014
+excerpt: "Welcome to DMD1070, Foundations of Web Design. This course is designed to guide you through the process of planning, designing, and implementing your first website. In this lesson we'll gain our bearings by understanding a bit about the history of the web and how the web works."
 ---
 
 <p class="lead">Welcome to DMD1070, Foundations of Web Design. This course is designed to guide you through the process of planning, designing, and implementing your first website. In this lesson we'll gain our bearings by understanding a bit about the history of the web and how the web works.</p>
@@ -87,9 +88,9 @@ Using Mozilla's [X-Ray Goggles](https://goggles.webmaker.org/) let's remix a web
 
 ## Readings & Assignments
 
-### 1. Read Tim Berners-Lee's ["The World Wide Web: A very short personal history"](http://www.w3.org/People/Berners-Lee/ShortHistory.html)
+### Read Tim Berners-Lee's ["The World Wide Web: A very short personal history"](http://www.w3.org/People/Berners-Lee/ShortHistory.html)
 
-Read the Web inventor's brief personal history. Do you think his vision of the web has held true? Come to class on Thursday prepared to discuss this.
+Read the Web inventor's brief personal history. Do you think his vision of the web has held true?
 
 
 ## Lesson Credits

@@ -2,6 +2,7 @@
 layout: post
 title: Introduction to CSS
 lesson_num: 04
+excerpt: "Cascading Style Sheets (CSS) allow us to add style such as colors, fonts, and layout to our pages. This lesson will be a review of the basic HTML covered in the last class and an introduction to CSS."
 ---
 
 <p class="lead">Cascading Style Sheets (CSS) allow us to add style such as colors, fonts, and layout to our pages. This lesson will be a review of the basic HTML covered in the last class and an introduction to CSS.</p>
@@ -12,7 +13,7 @@ Together, let's mark up the [Husky Cupcakes](/lesson_files/husky_cupcakes.txt) p
 
 ## HTML Review Activity (solo)
 
-Let's practice marking up a document *without* our text editor. I've printed copies of this [Wikipedia excerpt](/lesson_files/love_supreme.pdf). Using a pen and paper, mark up this document as HTML. 
+Let's practice marking up a document *without* our text editor. I've printed copies of this [Wikipedia excerpt](/lesson_files/love_supreme.pdf). Using a pen and paper, mark up this document as HTML.
 
 ## What is CSS?
 
@@ -44,7 +45,7 @@ Together we will style the Husky Cupcakes page we created earlier.
 
 ## Common CSS Properties
 
-Here is a list of some [common CSS Properties](http://www.openbookproject.net/tutorials/getdown/css/resources/lesson1/css_properties.html) and Mozilla's Developer Network maintains a [complete CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) 
+Here is a list of some [common CSS Properties](http://www.openbookproject.net/tutorials/getdown/css/resources/lesson1/css_properties.html) and Mozilla's Developer Network maintains a [complete CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 ## CSS Activity (solo)
 

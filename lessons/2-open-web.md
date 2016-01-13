@@ -2,6 +2,7 @@
 layout: post
 title: The Open Web
 lesson_num: 02
+excerpt: "The web was built on the ideals of openness, sharing, and collaboration. How can we use these concepts to remix and create our own work?"
 ---
 
 <p class="lead">The web was built on the ideals of openness, sharing, and collaboration. How can we use these concepts to remix and create our own work?</p>

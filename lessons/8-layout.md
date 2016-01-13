@@ -3,10 +3,11 @@ layout: post
 title: CSS Layout
 lesson_num: 08
 published: true
+excerpt: "Up until now the "layout" of our sites has been restricted to a single column. Exploring layout will allow us to structure our content and make better use of large screens."
 ---
 
 <p class="lead">
-  Up until now the "layout" of our sites has been restriced to a single column. Exploring layout will allow us to structure our content and make better use of large screens.
+  Up until now the "layout" of our sites has been restricted to a single column. Exploring layout will allow us to structure our content and make better use of large screens.
 </p>
 
 ## The Box Model
@@ -31,7 +32,7 @@ Together, let's take what we learned and build a 2 column layout.
 
 ### Mystery Assignment
 
-Bring a a six-sided package that has text on *all* sides to next week's class (*example: a cereal box*). 
+Bring a a six-sided package that has text on *all* sides to next week's class (*example: a cereal box*).
 
 ### Readings
 
