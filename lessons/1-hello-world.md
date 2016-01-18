@@ -12,6 +12,10 @@ excerpt: "Welcome to DMD1070, Foundations of Web Design. This course is designed
 
 <iframe src="https://slid.es/ascott1/dmd1070-1/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+## Student information format
+
+Please complete the [student information form](https://docs.google.com/forms/d/1RnPc6PyKJiNwur-mIyDv_SjUXyM3ZrtrQKbWbKrlrR4/viewform).
+
 ## How Does the Web Work?
 
 The Web is built on a series of technologies for information transfer, plus some programming languages that you use to specify how you want that information to look. A simplified view follows:
@@ -37,7 +41,7 @@ Choose a popular website and enter its URL into the [Wayback Machine](https://ar
 
 What was life like before the web? Try to imagine (or recall) how you would accomplish these tasks without the web:
 
-- Read the menu of a local restaurant 
+- Read the menu of a local restaurant
 - Buy concert tickets
 - Find the best driving route to Portland, Maine
 - Book a trip to San Francisco
