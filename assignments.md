@@ -10,6 +10,7 @@ title: Assignments
 **Due: Tuesday 01/26**
 
 1. Download and install the [Atom](https://atom.io/) text editor and [Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html) browser.
+2. Sign up for our [Slack chatroom](https://dmd1070.slack.com/) (you will receive an invite via email).
 
 ### Assignment 2:
 **Due: Thursday 01/28**
