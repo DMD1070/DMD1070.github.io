@@ -13,6 +13,10 @@ excerpt: "The web was built on the ideals of openness, sharing, and collaboratio
 
 <iframe src="https://slid.es/ascott1/dmd1070-02/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
+## Tim Berners-Lee's History of the Web
+
+Together let's review Tim Berners-Lee's ["The World Wide Web: A very short personal history"](http://www.w3.org/People/Berners-Lee/ShortHistory.html). Do you think his vision of the web has held true?
+
 ## Activity 1: A Game with No Rules
 
 **Supplies needed:** several decks of cards (1 for every 4 students)

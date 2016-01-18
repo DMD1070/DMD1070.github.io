@@ -21,8 +21,8 @@ The Web is built on a series of technologies for information transfer, plus some
 - **Your Internet connection:** Allows you to send and receive data on the Web. It's basically like a giant street that cars and people can travel down.
 - **TCP/IP:** Defines how your data should travel down that road. This is like the cars and buses people use to get places.
 - **HTTP:** Defines how and when data should be sent between the client and the server. This is like some people deciding what journeys they need to go on down the road, how far they need to travel, what mode of transport they need to use, etc.
-- **DNS:** Domain Name Servers are like an address book for Websites. When you type in a web address in your browser, before the website is retrieved the browser goes to the DNS to find out where it lives, like when you look up someone's address so you can go and visit them. Try typing http://212.58.251.195 into your web browser.
-- **HTML, CSS and JavaScript:** The main three programming languages that websites are built from.
+- **DNS:** Domain Name Servers are like an address book for Websites. When you type in a web address in your browser, before the website is retrieved the browser goes to the DNS to find out where it lives, like when you look up someone's address so you can go and visit them. Without DNS nameservers, we would navigate to a page by IP address such as http://208.80.152.201 (that's Wikipedia's IP address).
+- **HTML (CSS and JavaScript):** The main three programming languages that websites are built from.
 - **Assets:** This is a collective noun for all the other stuff that makes up a website, such as image files, MP3s and videos, Word documents, PDFs, etc.
 
 ## Activity 1: The Wayback Machine
@@ -52,7 +52,7 @@ A game of client/server
 
 Let's play a game! To play this we need:
 
-- Some lego bricks (or some coloured cards of some kind)
+- Some lego bricks (or some colored cards of some kind)
 - One person to play a web server
 - One person to play HTTP
 - 2-3 people to play clients
