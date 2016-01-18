@@ -150,16 +150,7 @@ Your links need to have 4 states:
 
 Use ems for your unit of measurement.
 
-## This Week's Assignments
-
-### CodeAcademy
-
-Complete lessons 7, 8, 9, and 10 of the [HTML & CSS track](http://www.codecademy.com/tracks/web). Send me a screenshot showing completion prior to next week's class.
-
-### Blog Post
-Complete the found alphabet activity and post it to your blog.
-
-### Reading
+### Readings
 
 **Focus on the concept not the technical how-to for now**
 

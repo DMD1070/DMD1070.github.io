@@ -62,16 +62,6 @@ lesson_num: 06
 
 Add a stylesheet to your Discography project. Consider the color, type, and layout based on what we have learned about CSS so far.
 
-## This Week's Assignment
-
-### 1. Codeacademy
-
-Complete lessons 4, 5, and 6 in the [HTML & CSS](http://www.codecademy.com/tracks/web) track. Send me a screenshot that shows completion prior to next week's class.
-
-### 2. Reading
+### 2. Readings
 
 Read [Web Design is 95% Typography](http://ia.net/blog/the-web-is-all-about-typography-period) and [A Journey Through Beautiful Typography In Web Design](http://www.smashingmagazine.com/2013/08/06/beautiful-typography-web-design/)
-
-### 3. Blog Post
-
-Details coming next class...

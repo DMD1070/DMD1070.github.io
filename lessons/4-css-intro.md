@@ -65,20 +65,3 @@ All assignments are due prior to class next Tuesday.
 ### Reading
 
 Read [The Dao of Web Design](http://alistapart.com/article/dao/). Though this article is 13 years old, it is still considered a "classic" of web design writing and is essential reading for any web designer.
-
-### Blog Post
-
-I'd like you to blog your **reaction** to the Dao of Web Design. What did you think of the article? What are some of the key points that the author makes? Are they still relevant in 2014?
-
-Be sure to do the following:
-
-- Be specific
-- Cite examples (from your experience or sites you've visited) to support your points
-- Quote the original author when helpful
-- Link to the original article
-
-Your blog post should be well thought out and be **350 - 500 words**.
-
-### Codeacademy.com lesson
-
-Complete lessons **#2 Build Your Own Web Page** and **#3 HTML Basics II** in the [HTML & CSS Track](http://www.codecademy.com/tracks/web)

@@ -38,11 +38,3 @@ Bring a a six-sided package that has text on *all* sides to next week's class (*
 
 - [Responsive Web Design](http://alistapart.com/article/responsive-web-design/)
 - [Mobile First](http://www.lukew.com/ff/entry.asp?933)
-
-### Blog
-
-What do the terms "Responsive" and "Mobile First" refer to in web design? Why are these topics important? Use quotes/references from this week's readings and the readings from lesson 7.
-
-### CodeAcademy:
-
-Complete lessons 11 and 12 of the [HTML & CSS track](http://www.codecademy.com/tracks/web). Send me a screenshot showing completion prior to next week's class.
