@@ -9,8 +9,6 @@ excerpt: "The web was built on the ideals of openness, sharing, and collaboratio
 
 <!--more-->
 
-[Jump to the assignments](#assignments)
-
 <iframe src="https://slid.es/ascott1/dmd1070-02/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Tim Berners-Lee's History of the Web
@@ -57,24 +55,3 @@ In open source, "forking" is the idea of using someone else's project as the sta
 1. Visit my sample profile page](https://adamscott.makes.org/thimble/leo-the-cat).
 2. Click the "Remix" button at the top of the page.
 3. Though we haven't yet learned and HTML or CSS, see how much you can customize the page. Make it about yourself, a person you look up to, or your own pet.
-
-<a id="assignments"></a>
-
-## Assignments
-
-### 1. Watch
-
-Watch the remaining episodes of [Everything is a Remix](http://everythingisaremix.info/watch-the-series/) (episodes 2 and 4).
-
-### 2. Blog Post
-
-**Part 1:** Remixes are all around us in the music we listen to, the products we buy, the movies we see, or the ads we drive past on the highway. This weekend find **3** examples of remixes that you encounter in your daily life and write about them on your blog. Be sure to clearly explain what they are a remix of. Include images and video or audio clips if possible.
-
-**Part 2:** What is your opinion of the idea that "everything is a remix?" After viewing Part 4: System Failure, do you agree with the filmmaker about the effects of intellectual property?
-
-### 3. Codeacademy
-
-1. Sign up for an account at [codeacademy.com](http://www.codecademy.com/).
-2. Select the [Web Fundamentals](http://www.codecademy.com/tracks/web) track.
-3. Complete lesson 1 HTML Basics (**note: there are 13 steps to this lesson**).
-4. To verify you have completed this lesson [take a screenshot](http://www.take-a-screenshot.org/) of  page that clearly shows you have completed the lesson and email it to me.
