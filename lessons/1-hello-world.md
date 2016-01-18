@@ -37,12 +37,12 @@ Choose a popular website and enter its URL into the [Wayback Machine](https://ar
 
 What was life like before the web? Try to imagine (or recall) how you would accomplish these tasks without the web:
 
-- Read the menu of a local restaraunt
+- Read the menu of a local restaurant 
 - Buy concert tickets
 - Find the best driving route to Portland, Maine
 - Book a trip to San Francisco
 - Find out the score of a football game
-- Check the balane of your bank account
+- Check the balance of your bank account
 - Find out if the dry cleaner is open
 - Find the best price for a new pair of shoes
 
