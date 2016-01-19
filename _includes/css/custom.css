@@ -11,6 +11,12 @@ body {
   line-height: 1.5;
 }
 
+/* responsive images and embeds */
+img,
+iframe {
+  max-width: 100%;
+}
+
 .container {
   margin: 0 auto;
   max-width: 38em;
