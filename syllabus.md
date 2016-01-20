@@ -45,7 +45,7 @@ A large portion of each class meeting will be dedicated to hands-on learning (su
 
 ## Readings and Assignments
 
-1-3 outside of class assignments will be assigned per week. Generally these assignments will be given during our Thursday meeting and due the following Thursday. All class assignments and due dates will be listed on dmd1070.com/assignments.
+1-3 outside of class assignments will be assigned per week. Generally these assignments will be given during our Wednesday meeting and due the following Wednesday. All class assignments and due dates will be listed on [dmd1070.com/assignments](https://dmd1070.com/assignments).
 
 ## Final Project
 
