@@ -43,7 +43,7 @@ Some elements do not contain other elements. For example, the image tag ("<img>"
 
 ## Common HTML terms
 
-- **Elements:** Elements define the semantic meaning of their content. Elements include everything between two matching element tags, including the tags themselves. For example, the "<p>" element indicates a paragraph; the "<img>" element indicates an image.
+- **Elements:** Elements define the semantic meaning of their content. Elements include everything between two matching element tags, including the tags themselves. For example, the `<p>` element indicates a paragraph; the `<img>` element indicates an image.
 - **Tags:** HTML documents are written in plain text. They can be written in any text editor that allows content to be saved as plain text, such as Notepad, Notepad++, or Sublime,  but most HTML authors prefer to use a specialized editor that highlights syntax and shows the DOM. Tag names may be written in either upper or lower case. However, the W3C (the global consortium that maintains the HTML standard) recommends using lower case.
 - **Attributes:** The tag may contain additional information and Such information is called an attribute. Tags such as `<img>` and `<a>` use attributes. Attributes usually consist of 2 parts:
     - An attribute name (such as `src` or `href`)

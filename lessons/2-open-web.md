@@ -52,6 +52,6 @@ Flatten and stretch the dough. Cover with tomatoes and cheese. Bake in the oven 
 
 In open source, "forking" is the idea of using someone else's project as the starter point for your own (just like our pizza recipe). I've created a simple profile page page using [Mozilla Thimble](https://thimble.webmaker.org/).
 
-1. Visit my sample profile page](https://d157rqmxrxj6ey.cloudfront.net/adamscott/24988).
+1. Visit my sample profile page (https://d157rqmxrxj6ey.cloudfront.net/adamscott/24988).
 2. Click the "Remix" button at the top of the page.
 3. Though we haven't yet learned and HTML or CSS, see how much you can customize the page. Make it about yourself, a person you look up to, or your own pet.
