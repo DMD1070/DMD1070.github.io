@@ -58,10 +58,10 @@ Use today's remaining class time to:
 5. Add your stylesheet (the same one used for the menu) and add any necessary styles
 6. Link your two pages together
 
-## Assignments
-
-All assignments are due prior to class next Tuesday.
-
-### Reading
+## Reading
 
 Read [The Dao of Web Design](http://alistapart.com/article/dao/). Though this article is 13 years old, it is still considered a "classic" of web design writing and is essential reading for any web designer.
+
+## CodeAcademy practice
+
+[Make a Website Unit 2](https://www.codecademy.com/en/skills/make-a-website/topics/css-properties-text/css-intro)

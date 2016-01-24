@@ -137,7 +137,7 @@ a:visited {
   color: #093844;
 }
 
-/* style hover/focus links /*
+/* style hover/focus links */
 a:hover,
 a:active,
 a:focus {
@@ -211,3 +211,7 @@ index.html should have:
   - Link (Back) to about page
 
 This activity is originally from [Teach the Web](http://teachtheweb.com/course_materials/discography_1.php)
+
+## CodeAcademy practice
+
+[Make a Website Unit 3](https://www.codecademy.com/en/skills/make-a-website/topics/css-properties-box/css-summary)

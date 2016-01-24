@@ -38,3 +38,7 @@ Bring a a six-sided package that has text on *all* sides to next week's class (*
 
 - [Responsive Web Design](http://alistapart.com/article/responsive-web-design/)
 - [Mobile First](http://www.lukew.com/ff/entry.asp?933)
+
+## CodeAcademy practice
+
+[Make a Website Unit 4](https://www.codecademy.com/en/skills/make-a-website/topics/css-properties-layout/css-layout-intro)

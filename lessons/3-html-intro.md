@@ -122,3 +122,7 @@ A very basic HTML page:
 Here is the plain text of a pizza menu: [Long Wharf Pizza Menu](/lesson_files/long_wharf_pizza.txt)
 
 To practice our HTML chops, mark it up as a [valid](https://validator.w3.org/) HTML file.
+
+## CodeAcademy practice
+
+[Make a Website Unit 1](https://www.codecademy.com/en/skills/make-a-website/topics/html-elements/html-css-intro)
