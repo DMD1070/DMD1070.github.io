@@ -48,7 +48,13 @@ After one round of cards, mix the groups up and ask the students to play again. 
 
 Flatten and stretch the dough. Cover with tomatoes and cheese. Bake in the oven at 450 degrees for 10-12 minutes.
 
-## Activity 3: About Me Remix
+## Activity 3: Trace the Outline of Net Neutrality
+
+Using [traceroute](https://d157rqmxrxj6ey.cloudfront.net/chadsansing/27057/#overview), find out who owns the fiber around you and the media you visit online. Unearth stakes for Net Neutrality in your digital neighborhood while learning about navigation and privacy.
+
+**Credit:** Mozilla, [James Bridle](https://twitter.com/jamesbridle), and [Chad Sansing](https://twitter.com/chadsansing)
+
+## Activity 4: About Me Remix
 
 In open source, "forking" is the idea of using someone else's project as the starter point for your own (just like our pizza recipe). I've created a simple profile page page using [Mozilla Thimble](https://thimble.webmaker.org/).
 
