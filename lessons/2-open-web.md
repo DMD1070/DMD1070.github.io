@@ -40,7 +40,7 @@ After one round of cards, mix the groups up and ask the students to play again. 
 3. Invite the students to fork the recipe and make it their own. Encourage students to be creative and stretch the boundaries of what this recipe could be. (Does it even have to be pizza?)
 4. Collect all of the recipes and read a few aloud. Discuss how allowing others to modify your recipe improved or (maybe) drastically changed the recipe.
 
-** My "recipe":**
+**My "recipe":**
 
 - Pizza dough
 - San Marzano Tomatoes
