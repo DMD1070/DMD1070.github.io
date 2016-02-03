@@ -17,4 +17,4 @@ title: Assignments
 **Due: Wednesday 02/10**
 
 1. Read and review the [Introduction to HTML](https://dmd1070.com/lessons/3-html-intro.html)
-2. Complete [Unit 1](https://dmd1070.com/lessons/3-html-intro.html) of the CodeAcademy **Make a Website** course. Take a screenshot that signifies you have completed the unit and share it with me on Slack or through email.
+2. Complete [Unit 1](https://www.codecademy.com/skills/make-a-website) of the CodeAcademy **Make a Website** course. Take a screenshot that signifies you have completed the unit and share it with me on Slack or through email.
