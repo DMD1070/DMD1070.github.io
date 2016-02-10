@@ -5,12 +5,11 @@ title: resources
 
 ## Course resources
 
-[Basecamp](https://basecamp.com/)
-
 ## HTML
 
 - [Basic HTML Template](https://raw.githubusercontent.com/DMD1070/html-template/master/index.html)
 - [Project Starter Template](https://github.com/DMD1070/project-template)
+- [HTML Validator](https://validator.w3.org/)
 
 ## CSS
 
