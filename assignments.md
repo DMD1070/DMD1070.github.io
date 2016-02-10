@@ -18,3 +18,10 @@ title: Assignments
 
 1. Read and review the [Introduction to HTML](https://dmd1070.com/lessons/3-html-intro.html)
 2. Complete [Unit 1](https://www.codecademy.com/skills/make-a-website) of the CodeAcademy **Make a Website** course. Take a screenshot that signifies you have completed the unit and share it with me on Slack or through email.
+
+### Assignment 3:
+
+**Due: Wednesday 02/17**
+
+1. Read [The Dao of Web Design](http://alistapart.com/article/dao/). Though this article is 13 years old, it is still considered a "classic" of web design writing and is essential reading for any web designer.
+2. Complete [Unit 2](https://www.codecademy.com/skills/make-a-website) of the CodeAcademy **Make a Website** course. Take a screenshot that signifies you have completed the unit and share it with me on Slack or through email.
