@@ -51,7 +51,7 @@ Here is a list of some [common CSS Properties](http://www.openbookproject.net/tu
 
 Use today's remaining class time to:
 
-1. Style the Long Wharf Pizza menu you created last class.
+1. Style the Long Wharf Pizza menu you created last class. Change the background color of the page, some text colors, font styles, and type sizes. Reference the common CSS properties link above.
 2. Add a home page saved as `index.html`
 3. Markup this [index page text](/lesson_files/pizza_index.txt)
 4. Add an image to the home page
