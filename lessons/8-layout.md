@@ -2,9 +2,9 @@
 layout: post
 title: CSS Layout
 lesson_num: 08
-published: true
-excerpt: "Up until now the "layout" of our sites has been restricted to a single column. Exploring layout will allow us to structure our content and make better use of large screens."
+excerpt: "Up until now the layout of our sites has been restricted to a single column. Exploring layout will allow us to structure our content and make better use of large screens."
 ---
+
 
 <p class="lead">
   Up until now the "layout" of our sites has been restricted to a single column. Exploring layout will allow us to structure our content and make better use of large screens.

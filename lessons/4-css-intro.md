@@ -37,7 +37,7 @@ CSS works by using **selectors** to select HTML content and apply styles to them
 
 ```css
 p {
-	color: pink;
+  color: pink;
 }
 ```
 

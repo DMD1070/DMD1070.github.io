@@ -1,11 +1,13 @@
 # General Jekyll Config
-pygments: true
-url: http://dmd1070.github.io/
-lsi: false
-exclude: [LICENSE, CNAME, README.md, .gitignore]
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+url: https://dmd1070.com
+markdown: kramdown
+highlighter: true
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock, atom.xml]
 
 # Theme customization - please change from the defaults!
 theme:
@@ -15,15 +17,6 @@ theme:
   # Profile links on the left sidebar, leave blank to ignore
   social:
     github: DMD1070
-    #bitbucket: philipj
-    #hacker_news: swanson
-    #stackexchange: 348619
-    #stackoverflow: 348619
-    twitter: adamdscott
-    #facebook: zuck
-    #tumblr: animalygifs
-    #linkedin: philipjagielski
-    #gplus: 110552447039675960964
 
   # "Hi, I'm _______"
   name: DMD1070
