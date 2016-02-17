@@ -15,6 +15,7 @@ title: resources
 
 - [Common CSS Properties](http://www.openbookproject.net/tutorials/getdown/css/resources/lesson1/css_properties.html)
 - [Complete CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [CSS Reset](http://meyerweb.com/eric/tools/css/reset/)
 
 ## General resources
 
