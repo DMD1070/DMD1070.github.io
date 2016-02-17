@@ -25,3 +25,10 @@ title: Assignments
 
 1. Read [The Dao of Web Design](http://alistapart.com/article/dao/). Though this article is 13 years old, it is still considered a "classic" of web design writing and is essential reading for any web designer.
 2. Complete [Unit 2](https://www.codecademy.com/skills/make-a-website) of the CodeAcademy **Make a Website** course. Take a screenshot that signifies you have completed the unit and share it with me on Slack or through email.
+
+### Assignment 4:
+
+**Due: Wednesday 02/24**
+
+1. Read [Getting to Know CSS](http://learn.shayhowe.com/html-css/getting-to-know-css/)
+2. 2. Complete [Unit 3](https://www.codecademy.com/skills/make-a-website) of the CodeAcademy **Make a Website** course. Take a screenshot that signifies you have completed the unit and share it with me on Slack or through email.
