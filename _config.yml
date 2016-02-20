@@ -1,7 +1,7 @@
 # General Jekyll Config
 url: https://dmd1070.com
 markdown: kramdown
-highlighter: true
+highlighter: rouge
 kramdown:
   input: GFM
   hard_wrap: false
