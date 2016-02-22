@@ -172,19 +172,19 @@ The CSS:
 
 ## In-class Activity
 
-Over the next few classes, you will create a small website that showcases a band’s album releases.
+Over the next few classes, you will create a small website that showcases a band or artist’s album releases.
 
 ### Steps
 
-Choose a music artist of band that has at least 4 releases and at least two band members.
+**Step 0:** Choose a music artist of band that has at least 4 releases and at least two band members.
 
-Find the band members names' and a little background information about them. You can use information found on the Web or other sources. **Just make sure to cite and link to your source.**
+**Step 1:** Find the band members names' and a little background information about them. You can use information found on the Web or other sources. *Just make sure to cite and link to your source.*
 
 For each of 4 of their albums, find the title, track listing, and cover art.
 
-Gather, edit, and organize copy. Make sure that you keep a record of your sources. Add the appropriate content to your HTML documents. Keep reading to know what copy you need to gather, edit, and organize.
+**Step 2:** Gather, edit, and organize copy. Make sure that you keep a record of your sources. Add the appropriate content to your HTML documents. Keep reading to know what copy you need to gather, edit, and organize.
 
-In your DMD1070 folder, create a new folder named **discography**.
+**Step 3:** In your DMD1070 folder, create a new folder named **discography**.
 
 Create 2 html files:
 
@@ -199,7 +199,7 @@ index.html should have:
 - Unordered list of band members
 - Table with 2-columns
   - Year album was released
-  - title of the album
+  - Title of the album
 
 **discography.html should have, for *each* album:**
 
@@ -209,6 +209,9 @@ index.html should have:
   - The album cover art
   - Ordered list of track listing
   - Link (Back) to about page
+
+**Step 4:** [Validate your HTML](https://validator.w3.org/).
+
 
 This activity is originally from [Teach the Web](http://teachtheweb.com/course_materials/discography_1.php)
 
