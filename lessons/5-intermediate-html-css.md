@@ -176,7 +176,7 @@ Over the next few classes, you will create a small website that showcases a band
 
 ### Steps
 
-**Step 0:** Choose a music artist or band that has at least 4 releases.
+**Step 0:** Choose a music artist of band that has at least 4 releases and at least two band members.
 
 **Step 1:** Find the band members names' and a little background information about them. You can use information found on the Web or other sources. *Just make sure to cite and link to your source.*
 
@@ -199,9 +199,9 @@ index.html should have:
 - Unordered list of band members
 - Table with 2-columns
   - Year album was released
-  - Title of the album with link to the album in the discography.html page
+  - Title of the album
 
-discography.html should have, for *each* album:
+**discography.html should have, for *each* album:**
 
 - A div with a unique id
 - Inside the div have:
