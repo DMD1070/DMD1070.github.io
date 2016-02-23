@@ -199,7 +199,7 @@ index.html should have:
 - Unordered list of band members
 - Table with 2-columns
   - Year album was released
-  - Title of the album with link to the album in the `discography.html` page
+  - Title of the album with link to the album in the discography.html page
 
 discography.html should have, for *each* album:
 
