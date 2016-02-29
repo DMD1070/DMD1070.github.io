@@ -32,3 +32,15 @@ title: Assignments
 
 1. Read [Getting to Know CSS](http://learn.shayhowe.com/html-css/getting-to-know-css/)
 2. 2. Complete [Unit 3](https://www.codecademy.com/skills/make-a-website) of the CodeAcademy **Make a Website** course. Take a screenshot that signifies you have completed the unit and share it with me on Slack or through email.
+
+### Assignment 5:
+
+**Due: Wednesday 03/02**
+
+Complete markup and styles for the [Discography project](https://dmd1070.com/lessons/5-intermediate-html-css.html#discography-project).
+
+### Assignment 6:
+
+**Due: Wednesday 03/09**
+
+Read [Web Design is 95% Typography](http://ia.net/blog/the-web-is-all-about-typography-period) and [A Journey Through Beautiful Typography In Web Design](http://www.smashingmagazine.com/2013/08/06/beautiful-typography-web-design/)

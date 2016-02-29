@@ -170,7 +170,7 @@ The CSS:
 }
 ```
 
-## In-class Activity
+## Discography Project
 
 Over the next few classes, you will create a small website that showcases a band or artist’s album releases.
 

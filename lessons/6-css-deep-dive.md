@@ -61,7 +61,3 @@ lesson_num: 06
 ## In-Class Project
 
 Add a stylesheet to your Discography project. Consider the color, type, and layout based on what we have learned about CSS so far.
-
-### 2. Readings
-
-Read [Web Design is 95% Typography](http://ia.net/blog/the-web-is-all-about-typography-period) and [A Journey Through Beautiful Typography In Web Design](http://www.smashingmagazine.com/2013/08/06/beautiful-typography-web-design/)
