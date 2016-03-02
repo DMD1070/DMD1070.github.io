@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Getting your site on the web
+title: Getting a site on the web with GitHub pages
 lesson_num: 0
 published: true
 excerpt: "Now that you have some HTML and CSS, let's get it on the web with GitHub."
 ---
-
-## Getting a site on the web with GitHub pages
 
 So you’ve made a website with HTML and CSS, that’s awesome! Well done! Right now that site only lives on your computer rather than being accessible to the world. Boo! Let’s fix that!
 
