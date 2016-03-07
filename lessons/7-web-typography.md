@@ -29,11 +29,7 @@ Create a 900 x 750 Photoshop document with a white background. Click *View > Sho
 
 Open each letter photo in Photoshop. Set your crop to 100 x 100 and crop the letters. Once cropped bring the letter into the large Photoshop document.
 
-Use the white space in the bottom right corner to type set your name. When you are finished. Save the image for the web as a jpg file: *File > Save for Web and Devices > Preset: JPEG, Quality: High* and post the image to your class blog.
-
-## Activity Type Setting an Article
-
-Together let's type set Tim Berners-Lee's [The World Wide Web: A very short personal history](http://www.w3.org/People/Berners-Lee/ShortHistory.html)
+Use the white space in the bottom right corner to type set your name. When you are finished. Save the image for the web as a jpg file: *File > Save for Web and Devices > Preset: JPEG, Quality: High* and post the #typography Slack channel.
 
 ## Sizing Type
 
@@ -123,36 +119,10 @@ There are a handful of services that take the guess work out of using @font-face
 
 Be sure to take a look at [The Best Google Web Fonts](http://hellohappy.org/beautiful-web-type) demo
 
-## Web Type Activity 1
+## Activity Type Setting an Article
+
+Together let's type set Tim Berners-Lee's [The World Wide Web: A very short personal history](http://www.w3.org/People/Berners-Lee/ShortHistory.html)
+
+## Web Type Activity
 
 Choose a quote or song lyric and try creating a typographic interpretation, similar to those found at [The Best Google Web Fonts](http://hellohappy.org/beautiful-web-type) demo. Try to be creative, but **do not use more than 2 fonts.**
-
-## Web Type Activity 2
-
-We can do a better job than the last style sheets used in our Discography projects by creating a *new* style sheet for this website. This style sheet will be used for both pages.
-
-Create a new style sheet for your Discography website. Link the style sheet in both HTML documents.
-
-Make appropriate typography decisions such as:
-
-- font
-- line length
-- line height
-- visual hierarchy
-- Make everything legible and readable.
-
-Your links need to have 4 states:
-
-- link
-- visited
-- hover
-- active
-
-Use ems for your unit of measurement.
-
-### Readings
-
-**Focus on the concept not the technical how-to for now**
-
-- [Responsive Web Design](http://alistapart.com/article/responsive-web-design/)
-- [Responsive Web Design: What It Is and How To Use It](http://coding.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/)

@@ -38,6 +38,7 @@ Bring a a six-sided package that has text on *all* sides to next week's class (*
 
 - [Responsive Web Design](http://alistapart.com/article/responsive-web-design/)
 - [Mobile First](http://www.lukew.com/ff/entry.asp?933)
+- [Responsive Web Design: What It Is and How To Use It](http://coding.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/)
 
 ## CodeAcademy practice
 
