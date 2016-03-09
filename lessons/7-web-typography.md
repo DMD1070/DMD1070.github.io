@@ -129,7 +129,7 @@ There are a handful of services that take the guess work out of using @font-face
 
 Be sure to take a look at [The Best Google Web Fonts](http://hellohappy.org/beautiful-web-type) demo
 
-## Web Type Activity
+## Web Type Assignment
 
 1. Take a look at [The Best Google Web Fonts](http://hellohappy.org/beautiful-web-type) demo to get an idea for the sort of things you might do with type.
 2. Choose **two** quotes or song lyrics and create two web pages that display the quotes in **different** styles.
