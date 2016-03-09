@@ -29,3 +29,11 @@ title: resources
 
 - [Kuler](http://kuler.adobe.com)
 - [Colour Lovers](http://colourlovers.com)
+
+## Typography
+
+- [Practical Typography](http://practicaltypography.com/)
+- [Google Web Fonts](https://www.google.com/fonts)
+- [Typekit](https://typekit.com/)
+- [Font Squirrel](http://www.fontsquirrel.com/)
+- [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)

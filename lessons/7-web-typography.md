@@ -31,6 +31,14 @@ Open each letter photo in Photoshop. Set your crop to 100 x 100 and crop the let
 
 Use the white space in the bottom right corner to type set your name. When you are finished. Save the image for the web as a jpg file: *File > Save for Web and Devices > Preset: JPEG, Quality: High* and post the #typography Slack channel.
 
+## Activity Type Setting an Article
+
+Together let's type set Tim Berners-Lee's [The World Wide Web: A very short personal history](http://www.w3.org/People/Berners-Lee/ShortHistory.html).
+
+1. [Download the HTML and starter CSS](https://github.com/DMD1070/short-history/archive/master.zip).
+2. Read [Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html)
+3. Watch and follow along with the following video
+
 ## Sizing Type
 
 Up until now we've been sizing our type with with the px unit of measure, but from here on out we'll be using `ems`. There's a [number of reasons](http://css-tricks.com/why-ems/) to use ems over px, but most importantly is te flexibility it gives us as designers.
@@ -118,10 +126,6 @@ There are a handful of services that take the guess work out of using @font-face
 [Google Web Fonts](https://www.google.com/fonts) uses free and open source fonts (similar to Font Squirrel), but makes adding the the fonts to a page *really* easy.
 
 Be sure to take a look at [The Best Google Web Fonts](http://hellohappy.org/beautiful-web-type) demo
-
-## Activity Type Setting an Article
-
-Together let's type set Tim Berners-Lee's [The World Wide Web: A very short personal history](http://www.w3.org/People/Berners-Lee/ShortHistory.html)
 
 ## Web Type Activity
 
