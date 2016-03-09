@@ -39,6 +39,8 @@ Together let's type set Tim Berners-Lee's [The World Wide Web: A very short pers
 2. Read [Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html)
 3. Watch and follow along with the following video
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/DD9-dQmRsmc" frameborder="0" allowfullscreen></iframe>
+
 ## Sizing Type
 
 Up until now we've been sizing our type with with the px unit of measure, but from here on out we'll be using `ems`. There's a [number of reasons](http://css-tricks.com/why-ems/) to use ems over px, but most importantly is te flexibility it gives us as designers.
@@ -129,4 +131,13 @@ Be sure to take a look at [The Best Google Web Fonts](http://hellohappy.org/beau
 
 ## Web Type Activity
 
-Choose a quote or song lyric and try creating a typographic interpretation, similar to those found at [The Best Google Web Fonts](http://hellohappy.org/beautiful-web-type) demo. Try to be creative, but **do not use more than 2 fonts.**
+1. Take a look at [The Best Google Web Fonts](http://hellohappy.org/beautiful-web-type) demo to get an idea for the sort of things you might do with type.
+2. Choose **two** quotes or song lyrics and create two web pages that display the quotes in **different** styles.
+
+### Requirements:
+
+- Style both quotes differently
+- Set type using `em`s
+- Apply different font sizes and line heights
+- Apply a readable line length to each quote
+- Use typefaces selected from [cssfontstack](http://www.cssfontstack.com/), [Google Fonts](https://www.google.com/fonts), or [Typekit](https://typekit.com/)
