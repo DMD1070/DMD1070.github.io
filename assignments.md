@@ -44,3 +44,14 @@ Complete markup and styles for the [Discography project](https://dmd1070.com/les
 **Due: Wednesday 03/09**
 
 Read [Web Design is 95% Typography](http://ia.net/blog/the-web-is-all-about-typography-period) and [A Journey Through Beautiful Typography In Web Design](http://www.smashingmagazine.com/2013/08/06/beautiful-typography-web-design/)
+
+### Assignment 7:
+
+**Due: Monday 03/28**
+
+Bring a a six-sided package that has text on *all* sides to next week's class (*example: a cereal box*).
+
+Read:
+
+- [Responsive Web Design](http://alistapart.com/article/responsive-web-design/)
+- [Mobile First](http://www.lukew.com/ff/entry.asp?933)
