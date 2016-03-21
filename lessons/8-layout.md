@@ -22,10 +22,6 @@ Using [CodePen.io](http://codepen.io/) we'll walk through the box model, thinkin
 
 Together we'll walk through the [Learn Layout](http://learnlayout.com/) tutorial.
 
-### Building a 2-Column Layout
-
-Together, let's take what we learned and build a 2 column layout.
-
 ![2 column layout](/lesson_files/2-column.png)
 
 ## In Class Activity
