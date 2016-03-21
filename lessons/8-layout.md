@@ -28,6 +28,12 @@ Together, let's take what we learned and build a 2 column layout.
 
 ![2 column layout](/lesson_files/2-column.png)
 
+## In Class Activity
+
+Recreate the following layout in HTML and CSS:
+
+![multi column layout](/lesson_files/layout-assignment.png)
+
 ## This Week's Assignments
 
 ### Mystery Assignment
