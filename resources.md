@@ -9,8 +9,8 @@ title: resources
 
 ## HTML
 
-- [Basic HTML Template](https://raw.githubusercontent.com/DMD1070/html-template/master/index.html)
-- [Project Starter Template](https://github.com/DMD1070/project-template)
+- [Basic HTML Template](https://raw.githubusercontent.com/DMD1070/html-template/master/index.html) — A basic HTML starter page.
+- [Project Starter Template](https://github.com/DMD1070/project-template/archive/master.zip) — Full responsive project starter kit with HTML, file structure, and basic CSS.
 - [HTML Validator](https://validator.w3.org/)
 
 ## CSS
