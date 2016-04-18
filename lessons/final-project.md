@@ -15,7 +15,7 @@ You are all have different strengths and interests, so the specific content of y
 - A resume that includes your accomplishments and is written in a format appropriate for your field.
 - Examples of your accomplishments and experience in your field including things like: samples of your work, writing samples, images, or other ways of demonstrating your skills.
 
-##Project Goals
+## Project Goals
 
 The goals of this project are to demonstrate the skills you have learned in this class as well as your professional and school experience. You should be creative when doing this. These guidelines are the minimum requirements. You are encouraged to explore and create more than the bare minimum.
 
@@ -30,8 +30,5 @@ Your site must meet the following criteria.
 - Be fully responsive to ensure compatibility with a range of devices.
 - Validated and error free HTML & CSS.
 
-## Process Binder
-
-In addition to developing the site, we will be exploring the web design process over the coming weeks. I'd ask that each of you purchase a three ring binder that will contain print-outs of your competitive analysis, personas, mood boards, sketches, wireframes, designs, and any other work that leads up to the development process.
 
 **This assignment has been adapted from [Teach the Web](http://teachtheweb.com/course_materials/personal.php).**
