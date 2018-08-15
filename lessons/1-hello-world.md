@@ -10,7 +10,7 @@ excerpt: "Welcome to DMD1070, Foundations of Web Design. This course is designed
 
 <!--more-->
 
-<iframe src="https://slid.es/ascott1/dmd1070-1/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src=//slid.es/ascott1/dmd1070-1/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Student information format
 

@@ -9,7 +9,7 @@ excerpt: "The web was built on the ideals of openness, sharing, and collaboratio
 
 <!--more-->
 
-<iframe src="https://slid.es/ascott1/dmd1070-02/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//slid.es/ascott1/dmd1070-02/embed" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## Tim Berners-Lee's History of the Web
 

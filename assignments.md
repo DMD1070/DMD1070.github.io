@@ -16,7 +16,7 @@ title: Assignments
 
 **Due: Wednesday 02/10**
 
-1. Read and review the [Introduction to HTML](https://dmd1070.com/lessons/3-html-intro.html)
+1. Read and review the [Introduction to HTML](https://dmd1070.github.io/lessons/3-html-intro.html)
 2. Complete [Unit 1](https://www.codecademy.com/skills/make-a-website) of the CodeAcademy **Make a Website** course. Take a screenshot that signifies you have completed the unit and share it with me on Slack or through email.
 
 ### Assignment 3:
@@ -37,7 +37,7 @@ title: Assignments
 
 **Due: Wednesday 03/02**
 
-Complete markup and styles for the [Discography project](https://dmd1070.com/lessons/5-intermediate-html-css.html#discography-project).
+Complete markup and styles for the [Discography project](https://dmd1070.github.io/lessons/5-intermediate-html-css.html#discography-project).
 
 ### Assignment 6:
 
@@ -55,3 +55,13 @@ Read:
 
 - [Responsive Web Design](http://alistapart.com/article/responsive-web-design/)
 - [Mobile First](http://www.lukew.com/ff/entry.asp?933)
+
+### Assignment 8:
+
+You will be creating a website. As your starting point, you will use a six-sided package that has text on all sides.
+
+[The box project](https://dmd1070.github.io/lessons/box-project.html)
+
+## Final Project:
+
+[Final project details](https://dmd1070.github.io/lessons/final-project.html)
